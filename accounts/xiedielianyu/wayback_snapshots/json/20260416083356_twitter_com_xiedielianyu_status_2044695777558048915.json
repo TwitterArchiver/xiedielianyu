@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2044393091583586383",
+    "created_at": "2026-04-16T08:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044695777558048915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "745609705960050688",
+          "start": 0,
+          "username": "RX2KZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044695777558048915",
+    "in_reply_to_user_id": "745609705960050688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044675527282466944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX2KZN 豪！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2044393091583586383",
+        "created_at": "2026-04-16T08:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044695777558048915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "745609705960050688",
+              "start": 0,
+              "username": "RX2KZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044695777558048915",
+        "in_reply_to_user_id": "745609705960050688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044675527282466944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX2KZN 豪！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "745609705960050688",
+        "conversation_id": "2044393091583586383",
+        "created_at": "2026-04-16T07:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044675527282466944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044675527282466944",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044393091583586383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu 這樣的統一回覆“我不用裝就很可愛”\n甘寧屁事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 38,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-22T13:29:41.000Z",
+        "description": "開始往奇怪的方向發展成長了w",
+        "id": "745609705960050688",
+        "name": "（ユイ瑞希）狐與水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035800042678939648/V4Ce-uzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 759,
+          "like_count": 32789,
+          "listed_count": 10,
+          "media_count": 104,
+          "tweet_count": 1013
+        },
+        "username": "RX2KZN",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2042675422622814315",
+    "created_at": "2026-04-10T19:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T20:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042684672690536477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814174084617666560",
+          "start": 0,
+          "username": "MianXue525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042684672690536477",
+    "in_reply_to_user_id": "1814174084617666560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042684510777807162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianXue525 眠眠也加油哦🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2042675422622814315",
+        "created_at": "2026-04-10T19:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T20:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042684672690536477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042684672690536477",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042684510777807162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 眠眠也加油哦🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2042675422622814315",
+        "created_at": "2026-04-10T19:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T20:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042684510777807162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042684510777807162",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042684167985729642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu 我希望你也要好好🥲不要在我之前死掉…加油哦( ; _ ; )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 17,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 119
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 340,
+          "like_count": 588,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

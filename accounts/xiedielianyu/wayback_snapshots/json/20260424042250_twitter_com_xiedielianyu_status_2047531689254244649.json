@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2047475195343204368",
+    "created_at": "2026-04-24T04:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047531689254244649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "TeamRain_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047531689254244649",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047475195343204368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeamRain_2024 他们不是自私，而是匮乏且愚蠢。他们看不到你的情绪，因为他们自己心里也许从未被那样填满过。现在作为已经长大的你，可以去抱抱心里那个孩子，告诉他，我已经能看见你了，我在乎你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2047475195343204368",
+        "created_at": "2026-04-24T04:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047531689254244649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "TeamRain_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047531689254244649",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047475195343204368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamRain_2024 他们不是自私，而是匮乏且愚蠢。他们看不到你的情绪，因为他们自己心里也许从未被那样填满过。现在作为已经长大的你，可以去抱抱心里那个孩子，告诉他，我已经能看见你了，我在乎你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2047475195343204368",
+        "created_at": "2026-04-24T00:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:35:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047474488758128828",
+          "2047475195343204368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047475195343204368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家里人总是觉得我是一个很自私的人说我只会顾着自己，不顾家里人的感受，但我始终认为真正自私的，是我的家人，如果当初他们在乎过我，我就不会变成今天这个样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2047384201134276667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 60,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 672
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴.",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045274685164949504/jv-Rj4Eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9635,
+          "following_count": 943,
+          "like_count": 79139,
+          "listed_count": 19,
+          "media_count": 1574,
+          "tweet_count": 11132
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "TeamRain_2024",
+        "verified": true
+      }
+    ]
+  }
+}

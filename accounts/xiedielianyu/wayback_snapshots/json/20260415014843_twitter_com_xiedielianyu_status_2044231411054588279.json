@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2043948584664740007",
+    "created_at": "2026-04-15T01:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T02:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044231411054588279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1525433973111140353",
+          "start": 0,
+          "username": "10CFreeze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044231411054588279",
+    "in_reply_to_user_id": "1525433973111140353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043948584664740007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10CFreeze 绿色电池一节"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043948570890665984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2QZVsbAAAvzEu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2043948584664740007",
+        "created_at": "2026-04-15T01:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044231411054588279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1525433973111140353",
+              "start": 0,
+              "username": "10CFreeze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044231411054588279",
+        "in_reply_to_user_id": "1525433973111140353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043948584664740007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10CFreeze 绿色电池一节"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043948570890665984"
+          ]
+        },
+        "author_id": "1525433973111140353",
+        "conversation_id": "2043948584664740007",
+        "created_at": "2026-04-14T07:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043948584664740007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pop9GcZkis",
+              "end": 38,
+              "expanded_url": "https://x.com/10CFreeze/status/2043948584664740007/photo/1",
+              "media_key": "3_2043948570890665984",
+              "start": 15,
+              "url": "https://t.co/Pop9GcZkis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043948584664740007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请找出图中你最想要的那个东西 https://t.co/Pop9GcZkis"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 33,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T11:13:35.000Z",
+        "description": "舟批 澄厨\nArknights player，Goldenglow lover\n\n——————以上为原版简介——————\n\n把推特当推推空间用 / 不爱鉴证 / 想到什么会随便说说/想骂我就是你赢了 / 每天活在焦虑抑郁之中 / 屈服于无药的苦痛而重拾od/ 被bpd搞砸一切 / 不害怕bpd欢迎互关 / 已打工失败",
+        "id": "1525433973111140353",
+        "name": "10CFREEZE/テンフリーズ",
+        "pinned_tweet_id": "2038534772578975862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645932489544957952/d7Aovv6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 220,
+          "like_count": 3087,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 2153
+        },
+        "username": "10CFreeze",
+        "verified": false
+      }
+    ]
+  }
+}

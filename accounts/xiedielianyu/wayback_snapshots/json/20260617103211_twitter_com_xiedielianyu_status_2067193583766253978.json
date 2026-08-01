@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2025075648646218032",
+    "created_at": "2026-06-17T10:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067193583766253978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1466433239841714182",
+          "start": 0,
+          "username": "24wddp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067193583766253978",
+    "in_reply_to_user_id": "1466433239841714182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025075648646218032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@24wddp 预言家刀了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_2025075642199670785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqDkTibgAEp78D.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2025075648646218032",
+        "created_at": "2026-06-17T10:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067193583766253978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1466433239841714182",
+              "start": 0,
+              "username": "24wddp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067193583766253978",
+        "in_reply_to_user_id": "1466433239841714182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025075648646218032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@24wddp 预言家刀了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025075642199670785"
+          ]
+        },
+        "author_id": "1466433239841714182",
+        "conversation_id": "2025075648646218032",
+        "created_at": "2026-02-21T05:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025075648646218032"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "新疆"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "pr80"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "pr"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "列管"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5SzICV7AQC",
+              "end": 66,
+              "expanded_url": "https://x.com/24wddp/status/2025075648646218032/photo/1",
+              "media_key": "3_2025075642199670785",
+              "start": 43,
+              "url": "https://t.co/5SzICV7AQC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025075648646218032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 433,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新疆都禁售了，全国还会远吗（大悲）\n\n＃新疆 ＃普瑞巴林 ＃pr80 #pr\n＃列管 https://t.co/5SzICV7AQC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2047384201134276667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 57,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-02T15:45:14.000Z",
+        "description": "阿斯伯格｜中度抑郁｜重度焦虑",
+        "id": "1466433239841714182",
+        "location": "中国",
+        "name": "24wddp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1466433415964729357/ejwGb0gX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 132,
+          "like_count": 13716,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 517
+        },
+        "username": "24wddp",
+        "verified": false
+      }
+    ]
+  }
+}

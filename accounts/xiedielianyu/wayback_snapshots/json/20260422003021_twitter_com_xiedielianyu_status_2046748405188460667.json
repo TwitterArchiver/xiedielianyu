@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2046747001589756243",
+    "created_at": "2026-04-22T00:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T01:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046748405188460667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998820105627770880",
+          "start": 0,
+          "username": "TenpennyL62429"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046748405188460667",
+    "in_reply_to_user_id": "1998820105627770880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046747988698247219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TenpennyL62429 没有（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 766,
+        "media_key": "3_2046747728932478976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeCNx_boAAYAQf.jpg",
+        "width": 490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2046747001589756243",
+        "created_at": "2026-04-22T00:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T01:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046748405188460667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998820105627770880",
+              "start": 0,
+              "username": "TenpennyL62429"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046748405188460667",
+        "in_reply_to_user_id": "1998820105627770880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046747988698247219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TenpennyL62429 没有（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046747728932478976"
+          ]
+        },
+        "author_id": "1998820105627770880",
+        "conversation_id": "2046747001589756243",
+        "created_at": "2026-04-22T00:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T01:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046747988698247219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4SJZ4lsiH",
+              "end": 86,
+              "expanded_url": "https://x.com/TenpennyL62429/status/2046747988698247219/photo/1",
+              "media_key": "3_2046747728932478976",
+              "start": 63,
+              "url": "https://t.co/r4SJZ4lsiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046747988698247219",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046747001589756243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu 早安，你夢到過自己變成一隻老鷹嗎🥰\n\n（我說早安和晚安的方式比較獨特，不知道你喜不喜歡👉🏻👈🏻） https://t.co/r4SJZ4lsiH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 51,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T18:20:45.000Z",
+        "description": "本賬號是 @Mr.湯普尼 （@GEACPS1940629）的小號，會發一些歷史老照片，感興趣的話就點個關注吧🥰\n\n提問箱：https://t.co/mjqSr7Cft4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 5,
+                "username": "Mr"
+              },
+              {
+                "end": 28,
+                "start": 14,
+                "username": "GEACPS1940629"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 84,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 61,
+                "url": "https://t.co/mjqSr7Cft4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://t.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/Ow1FjaGEow"
+              }
+            ]
+          }
+        },
+        "id": "1998820105627770880",
+        "name": "Mr.湯普尼（二代目）",
+        "pinned_tweet_id": "2043540051993436175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998820195599790082/UtF-9mcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 1246,
+          "like_count": 5137,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/Ow1FjaGEow",
+        "username": "TenpennyL62429",
+        "verified": false
+      }
+    ]
+  }
+}

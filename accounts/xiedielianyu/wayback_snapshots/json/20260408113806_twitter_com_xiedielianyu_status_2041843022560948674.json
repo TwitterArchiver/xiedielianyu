@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2041842864867725757",
+    "created_at": "2026-04-08T11:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T12:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041843022560948674"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041843022560948674",
+    "in_reply_to_user_id": "2016171535179120642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041842864867725757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是因为我不够活跃吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2041842864867725757",
+        "created_at": "2026-04-08T11:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041843022560948674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041843022560948674",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041842864867725757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是因为我不够活跃吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2041842864867725757",
+        "created_at": "2026-04-08T11:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041842864867725757"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041842864867725757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想聊天，为什么没人找我聊天啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，然后我不知道应该写什么了（",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034654128308465664/unp1CzjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 15,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 79
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069530040912752640"
+      ]
+    },
+    "author_id": "2016171535179120642",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069530044557595004",
+    "created_at": "2026-06-23T21:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T22:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069530044557595004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PkwzEuKiqs",
+          "end": 25,
+          "expanded_url": "https://x.com/xiedielianyu/status/2069530044557595004/photo/1",
+          "media_key": "3_2069530040912752640",
+          "start": 2,
+          "url": "https://t.co/PkwzEuKiqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069530044557595004",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "（ https://t.co/PkwzEuKiqs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2069530040912752640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhym3yasAA3e5u.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069530040912752640"
+          ]
+        },
+        "author_id": "2016171535179120642",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069530044557595004",
+        "created_at": "2026-06-23T21:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T22:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069530044557595004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PkwzEuKiqs",
+              "end": 25,
+              "expanded_url": "https://x.com/xiedielianyu/status/2069530044557595004/photo/1",
+              "media_key": "3_2069530040912752640",
+              "start": 2,
+              "url": "https://t.co/PkwzEuKiqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069530044557595004",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（ https://t.co/PkwzEuKiqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 60,
+          "like_count": 615,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      }
+    ]
+  }
+}

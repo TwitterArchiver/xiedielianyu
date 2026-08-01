@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2039867837217493250",
+    "created_at": "2026-04-03T00:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T01:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039867837217493250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2024195400442531841",
+          "start": 3,
+          "username": "zhngy228309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039867837217493250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039726859018268735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhngy228309: 互关抽奖一盒红普 可折现20r 转发/评论参与o😚😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2039867837217493250",
+        "created_at": "2026-04-03T00:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039867837217493250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2024195400442531841",
+              "start": 3,
+              "username": "zhngy228309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039867837217493250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039726859018268735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhngy228309: 互关抽奖一盒红普 可折现20r 转发/评论参与o😚😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024195400442531841",
+        "conversation_id": "2039726859018268735",
+        "created_at": "2026-04-02T15:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039726859018268735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039726859018268735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1248,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "互关抽奖一盒红普 可折现20r 转发/评论参与o😚😚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "无",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034654128308465664/unp1CzjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "🩸痂痂 请多夸我(•̀ϖ•́ ) 同类互fo\nod｜自残｜抽烟\n10｜162cm｜40kg\n这是一条会发情的母狗。我可能会发裸照吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%97%82",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%97%82",
+                "start": 0,
+                "url": "https://t.co/FgU3Ypa1us"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "🚪70好友位",
+        "name": "痂",
+        "pinned_tweet_id": "2030616431369633873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025337650073534464/-h1idxzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 274,
+          "like_count": 3157,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 941
+        },
+        "url": "https://t.co/FgU3Ypa1us",
+        "username": "zhngy228309",
+        "verified": false
+      }
+    ]
+  }
+}

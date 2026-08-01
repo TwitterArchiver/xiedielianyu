@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2038545596848415154",
+    "created_at": "2026-03-30T16:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T17:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038649214226366841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965246583379034117",
+          "start": 0,
+          "username": "hyunjennagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038649214226366841",
+    "in_reply_to_user_id": "1965246583379034117",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038545596848415154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyunjennagua 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2038545596848415154",
+        "created_at": "2026-03-30T16:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038649214226366841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038649214226366841",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038545596848415154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2038545596848415154",
+        "created_at": "2026-03-30T09:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038545596848415154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038545596848415154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4829,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 76,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "千fo抽奖终于来了！感谢大家陪南瓜走到这里！\n一等奖：52r一份\n二等奖：红普15r抽两份\n三等奖：绿普9.9r抽三份\n关注➕转帖➕评论➕点赞 将使用ai抽奖 都来参与呀！4月2号开奖！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "无",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034654128308465664/unp1CzjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 628,
+          "like_count": 3379,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1882
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

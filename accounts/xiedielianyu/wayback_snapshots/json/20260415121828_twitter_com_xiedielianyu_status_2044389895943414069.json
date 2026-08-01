@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2044060750201962986",
+    "created_at": "2026-04-15T12:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T13:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044389895943414069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841741161884504064",
+          "start": 0,
+          "username": "Miao_oTvTo_"
+        },
+        {
+          "end": 26,
+          "id": "2030832351656493056",
+          "start": 13,
+          "username": "Suintouhea2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044389895943414069",
+    "in_reply_to_user_id": "1841741161884504064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044060750201962986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miao_oTvTo_ @Suintouhea2t 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2044060750201962986",
+        "created_at": "2026-04-15T12:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044389895943414069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841741161884504064",
+              "start": 0,
+              "username": "Miao_oTvTo_"
+            },
+            {
+              "end": 26,
+              "id": "2030832351656493056",
+              "start": 13,
+              "username": "Suintouhea2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044389895943414069",
+        "in_reply_to_user_id": "1841741161884504064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044060750201962986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miao_oTvTo_ @Suintouhea2t 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841741161884504064",
+        "conversation_id": "2044060750201962986",
+        "created_at": "2026-04-14T14:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044060750201962986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044060750201962986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6327,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 74,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "我来搞个抽奖🎟️\n1️⃣88r✖️1\n2️⃣52r✖️1\n3️⃣13.14✖️5\n要求：关注我➕转发➕评论\n4.16开 😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 36,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T07:24:54.000Z",
+        "description": "祝我天天开心 睡个好觉\n匿名问答https://t.co/83lyR4WmfT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miao29318",
+                "end": 39,
+                "expanded_url": "https://ngl.link/miao29318",
+                "start": 16,
+                "url": "https://t.co/83lyR4WmfT"
+              }
+            ]
+          }
+        },
+        "id": "1841741161884504064",
+        "name": "泪池",
+        "pinned_tweet_id": "1896495494068846672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905216333316493312/VOLSQj_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10840,
+          "following_count": 114,
+          "like_count": 14692,
+          "listed_count": 21,
+          "media_count": 498,
+          "tweet_count": 8167
+        },
+        "username": "Miao_oTvTo_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T02:27:34.000Z",
+        "description": "一个患有精神病的用户🧠🤍｜自伤🩸OD💊｜叫我醉鸡，moe｜ISFP-T 12女初(´-ω-`)｜同类回fo🎹𝄞♡🪽提问箱https://t.co/AWOjVlhb0X 请不要对我说哦，我不是很喜欢这个词，@rinii165892 我爱你老公 cnRinly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "rinii165892"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/suintouhea2t",
+                "end": 83,
+                "expanded_url": "http://ngl.link/suintouhea2t",
+                "start": 60,
+                "url": "https://t.co/AWOjVlhb0X"
+              }
+            ]
+          }
+        },
+        "id": "2030832351656493056",
+        "location": "墓地🪦",
+        "name": "Moe",
+        "pinned_tweet_id": "2043910004735127917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042123320003588097/bsh5B1an_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 404,
+          "like_count": 2560,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1818
+        },
+        "username": "Suintouhea2t",
+        "verified": false
+      }
+    ]
+  }
+}

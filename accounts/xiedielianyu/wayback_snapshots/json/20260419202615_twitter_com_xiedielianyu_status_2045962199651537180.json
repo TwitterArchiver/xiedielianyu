@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2045850919309615463",
+    "created_at": "2026-04-19T20:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T21:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045962199651537180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1649366440808681474",
+          "start": 0,
+          "username": "is_llll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045962199651537180",
+    "in_reply_to_user_id": "1649366440808681474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045850919309615463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@is_llll 用“祂”😈（指代神明）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2045850919309615463",
+        "created_at": "2026-04-19T20:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T21:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045962199651537180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1649366440808681474",
+              "start": 0,
+              "username": "is_llll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045962199651537180",
+        "in_reply_to_user_id": "1649366440808681474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045850919309615463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@is_llll 用“祂”😈（指代神明）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649366440808681474",
+        "conversation_id": "2045850919309615463",
+        "created_at": "2026-04-19T13:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045850919309615463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045850919309615463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 661,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得中文缺一个无歧义的无性别第三人称代词，以前我很喜欢用「它」来指代任何性别的人，但是后面被指责不礼貌因为「它」是指代动物的。\n\n但是用「ta」又太不正式，「他」有些人认为专指男性，有些人认为都可以泛指（至少我觉得按这个字的原意就应该是泛指），实在令人头大…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 43,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T10:56:22.000Z",
+        "description": "06｜ '26 🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Vv_sA_MlSK03Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Vv_sA_MlSK03ZGU1",
+                "start": 0,
+                "url": "https://t.co/o22scQqc7S"
+              }
+            ]
+          }
+        },
+        "id": "1649366440808681474",
+        "location": "Shanghai",
+        "name": "LLLL🏳️‍🌈",
+        "pinned_tweet_id": "1937595042837021031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804666323064266752/D_saJw-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4224,
+          "following_count": 704,
+          "like_count": 55453,
+          "listed_count": 9,
+          "media_count": 602,
+          "tweet_count": 5386
+        },
+        "url": "https://t.co/o22scQqc7S",
+        "username": "is_llll",
+        "verified": false
+      }
+    ]
+  }
+}

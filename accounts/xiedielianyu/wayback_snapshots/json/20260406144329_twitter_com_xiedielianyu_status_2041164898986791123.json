@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2041082854873145642",
+    "created_at": "2026-04-06T14:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041164898986791123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599987342630002694",
+          "start": 0,
+          "username": "lny27974684"
+        },
+        {
+          "end": 23,
+          "id": "1886289385177669632",
+          "start": 13,
+          "username": "Lizzy_522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041164898986791123",
+    "in_reply_to_user_id": "1599987342630002694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041153327925502302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lny27974684 @Lizzy_522 他们说夏天不穿短袖不好看（不过我觉得手上那堆疤漏出来更难看吧？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2041082854873145642",
+        "created_at": "2026-04-06T14:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041164898986791123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599987342630002694",
+              "start": 0,
+              "username": "lny27974684"
+            },
+            {
+              "end": 23,
+              "id": "1886289385177669632",
+              "start": 13,
+              "username": "Lizzy_522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041164898986791123",
+        "in_reply_to_user_id": "1599987342630002694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041153327925502302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lny27974684 @Lizzy_522 他们说夏天不穿短袖不好看（不过我觉得手上那堆疤漏出来更难看吧？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599987342630002694",
+        "conversation_id": "2041082854873145642",
+        "created_at": "2026-04-06T13:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041153327925502302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            },
+            {
+              "end": 24,
+              "id": "1886289385177669632",
+              "start": 14,
+              "username": "Lizzy_522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041153327925502302",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041153004363984959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu @Lizzy_522 啊？为啥啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "无",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034654128308465664/unp1CzjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 46
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T04:41:49.000Z",
+        "description": "06/友跨/计算机大二/找我聊天/无政治立场/互fo(^▽^)o",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wansui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wansui",
+                "start": 0,
+                "url": "https://t.co/jnMVzihyBo"
+              }
+            ]
+          }
+        },
+        "id": "1599987342630002694",
+        "name": "万穗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016575350965510144/2XNPGmpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 233,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 578
+        },
+        "url": "https://t.co/jnMVzihyBo",
+        "username": "lny27974684",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T05:43:38.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、磕药蛆戒割中。成分复杂，钢琴，滚圈涉猎广泛，硬摇滚、迷幻摇滚、独立摇滚、jpop…负能，日常发神经吐苦水，友所有群体，查成分回fo。 现生朋友刷到我请自行绕道。骚逼@KKKaoru_异父异母的弟弟@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 115,
+                "username": "KKKaoru_"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/RDVwBMCX6v"
+              }
+            ]
+          }
+        },
+        "id": "1886289385177669632",
+        "name": "リジー",
+        "pinned_tweet_id": "2027517222768521252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997491540915294208/kFKVZs05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 363,
+          "like_count": 19019,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 2959
+        },
+        "url": "https://t.co/RDVwBMCX6v",
+        "username": "Lizzy_522",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2041357027604042092",
+    "created_at": "2026-04-07T03:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T04:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041357027604042092"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041357027604042092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为家里有烧水器还买了一瓶矿泉水被骂了。。。前几天也是，因为买了一瓶饮料被嘲讽说“少爷”，我们家也不算特别穷，我觉得真挺惨了吧。？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2041357027604042092",
+        "created_at": "2026-04-07T03:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041357027604042092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041357027604042092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为家里有烧水器还买了一瓶矿泉水被骂了。。。前几天也是，因为买了一瓶饮料被嘲讽说“少爷”，我们家也不算特别穷，我觉得真挺惨了吧。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "无",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034654128308465664/unp1CzjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 60
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      }
+    ]
+  }
+}

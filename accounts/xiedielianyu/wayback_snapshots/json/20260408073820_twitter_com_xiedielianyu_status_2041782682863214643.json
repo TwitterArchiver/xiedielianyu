@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2041782682863214643",
+    "created_at": "2026-04-08T07:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T08:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041782682863214643"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041782682863214643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠靠靠靠靠靠，气的我胃疼，妈的我爸叫我今天谁敲门都不要开，要开门会打电话给我，结果刚刚有人敲门我没开我爸爸电话第一句就是“你耳朵聋了吗？有人敲门你听不见？”然后直接挂电话了！气死我了气死我了气死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2041782682863214643",
+        "created_at": "2026-04-08T07:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041782682863214643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041782682863214643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠靠靠靠靠靠，气的我胃疼，妈的我爸叫我今天谁敲门都不要开，要开门会打电话给我，结果刚刚有人敲门我没开我爸爸电话第一句就是“你耳朵聋了吗？有人敲门你听不见？”然后直接挂电话了！气死我了气死我了气死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，然后我不知道应该写什么了（",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034654128308465664/unp1CzjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 75
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      }
+    ]
+  }
+}

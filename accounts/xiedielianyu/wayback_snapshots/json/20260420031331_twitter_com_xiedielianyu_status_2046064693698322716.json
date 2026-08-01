@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2046058338346238060",
+    "created_at": "2026-04-20T03:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T04:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046064693698322716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942493462810525696",
+          "start": 0,
+          "username": "AsanagiYori486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046064693698322716",
+    "in_reply_to_user_id": "1942493462810525696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046064288557920495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsanagiYori486 我才知道（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046064280869748736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUUn3jbQAAkejP.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2046058338346238060",
+        "created_at": "2026-04-20T03:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046064693698322716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942493462810525696",
+              "start": 0,
+              "username": "AsanagiYori486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046064693698322716",
+        "in_reply_to_user_id": "1942493462810525696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046064288557920495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsanagiYori486 我才知道（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046064280869748736"
+          ]
+        },
+        "author_id": "1942493462810525696",
+        "conversation_id": "2046058338346238060",
+        "created_at": "2026-04-20T03:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046064288557920495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/snz5Q9O50r",
+              "end": 43,
+              "expanded_url": "https://x.com/AsanagiYori486/status/2046064288557920495/photo/1",
+              "media_key": "3_2046064280869748736",
+              "start": 20,
+              "url": "https://t.co/snz5Q9O50r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046064288557920495",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046058338346238060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu 可以关掉的 https://t.co/snz5Q9O50r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 44,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T07:58:39.000Z",
+        "description": "第五届中推模拟大选委员会主席｜可以叫我依老师｜蒂蒂最锋利的剑｜研究新派刑法学｜Antitheist｜初始默认温柔人格｜爱好：明日方舟、视奸你｜讨厌：宗教神权，无脑粉红｜不站队，不摇摆｜1+1=2理论坚决反对者｜推：木野日鞠&朝凪依，八百岁比名子&近江汐莉｜写简介而已，又不是写毕业论文，没必要写那么完美”——她如此说到",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "KotoSatsuki.com",
+                "end": 23,
+                "expanded_url": "http://KotoSatsuki.com",
+                "start": 0,
+                "url": "https://t.co/PYo8GlCeWE"
+              }
+            ]
+          }
+        },
+        "id": "1942493462810525696",
+        "location": "My realms",
+        "name": "𝓐𝓼𝓪𝓷𝓪𝓰𝓲 𝓨𝓸𝓻𝓲",
+        "pinned_tweet_id": "2043352016622325999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039542257301475328/sq1OcSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 1899,
+          "like_count": 19737,
+          "listed_count": 0,
+          "media_count": 1316,
+          "tweet_count": 6096
+        },
+        "url": "https://t.co/PYo8GlCeWE",
+        "username": "AsanagiYori486",
+        "verified": true
+      }
+    ]
+  }
+}

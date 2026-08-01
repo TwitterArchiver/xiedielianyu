@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2048577402067128703",
+    "created_at": "2026-04-27T01:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T02:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048577402067128703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047167132778332160",
+          "start": 3,
+          "username": "1iakNFDq3U34780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048577402067128703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048577269984346527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1iakNFDq3U34780: 过去大家过的都很累，但是没关系，前路繁花似锦，我的意思是别回头，向前走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2048577402067128703",
+        "created_at": "2026-04-27T01:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048577402067128703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047167132778332160",
+              "start": 3,
+              "username": "1iakNFDq3U34780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048577402067128703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048577269984346527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1iakNFDq3U34780: 过去大家过的都很累，但是没关系，前路繁花似锦，我的意思是别回头，向前走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047167132778332160",
+        "conversation_id": "2048577269984346527",
+        "created_at": "2026-04-27T01:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048577269984346527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiedielianyu/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/xiedielianyu/status/2048573183163498646",
+              "start": 36,
+              "url": "https://t.co/BXxTwFgA6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048577269984346527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048573183163498646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过去大家过的都很累，但是没关系，前路繁花似锦，我的意思是别回头，向前走 https://t.co/BXxTwFgA6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2047384201134276667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 63,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 686
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T04:14:42.000Z",
+        "description": "",
+        "id": "2047167132778332160",
+        "name": "谢雨亭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047168104145489920/GBCtzKK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "1iakNFDq3U34780",
+        "verified": false
+      }
+    ]
+  }
+}

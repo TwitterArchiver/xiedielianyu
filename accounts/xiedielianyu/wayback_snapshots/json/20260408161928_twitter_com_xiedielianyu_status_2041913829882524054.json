@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2041764215338528906",
+    "created_at": "2026-04-08T16:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041913829882524054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1671821091738886144",
+          "start": 0,
+          "username": "_04x_d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041913829882524054",
+    "in_reply_to_user_id": "1671821091738886144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041764215338528906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_04x_d 我靠，我家长和以前老师也是，关键我家长知道我手上有疤还不让我焯长袖遮一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2041764215338528906",
+        "created_at": "2026-04-08T16:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041913829882524054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1671821091738886144",
+              "start": 0,
+              "username": "_04x_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041913829882524054",
+        "in_reply_to_user_id": "1671821091738886144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041764215338528906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_04x_d 我靠，我家长和以前老师也是，关键我家长知道我手上有疤还不让我焯长袖遮一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671821091738886144",
+        "conversation_id": "2041764215338528906",
+        "created_at": "2026-04-08T06:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041764215338528906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041764215338528906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神经病 看不惯我穿长袖讲要把我袖子剪掉 能去死不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034654128308465664/unp1CzjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 15,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 85
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T10:04:27.000Z",
+        "description": "251 @_j14q1\n                                                                                         shtwt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "_j14q1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki71720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki71720",
+                "start": 0,
+                "url": "https://t.co/Ex198DVgSE"
+              }
+            ]
+          }
+        },
+        "id": "1671821091738886144",
+        "name": "死体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013525475642019840/pScrwFXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 433,
+          "like_count": 11025,
+          "listed_count": 1,
+          "media_count": 480,
+          "tweet_count": 2856
+        },
+        "url": "https://t.co/Ex198DVgSE",
+        "username": "_04x_d",
+        "verified": false
+      }
+    ]
+  }
+}

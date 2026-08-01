@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2044510443751006401",
+    "created_at": "2026-04-16T01:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044586335160373682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883768460993552385",
+          "start": 0,
+          "username": "XiShangguan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044586335160373682",
+    "in_reply_to_user_id": "1883768460993552385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044577931125813326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiShangguan 谢谢❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2044510443751006401",
+        "created_at": "2026-04-16T01:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044586335160373682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883768460993552385",
+              "start": 0,
+              "username": "XiShangguan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044586335160373682",
+        "in_reply_to_user_id": "1883768460993552385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044577931125813326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiShangguan 谢谢❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2044510443751006401",
+        "created_at": "2026-04-16T00:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T01:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044577931125813326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044577931125813326",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044510443751006401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu 恭喜🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 35,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "你好，这里是上官曦✞08年生✞ODER✞pr单推✞INFP✞查成分互fo，忘记麻烦私信✞二次元✞政治无感✞只听日语歌✞术术人✞xp粉毛✞不善社交✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞上官朝日的日不是动词😡✞在线时间被压榨，没能及时回信息抱歉✞拒绝线下✞推アトリ✞温柔对待每个人",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 169,
+          "like_count": 5077,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1087
+        },
+        "username": "XiShangguan",
+        "verified": false
+      }
+    ]
+  }
+}

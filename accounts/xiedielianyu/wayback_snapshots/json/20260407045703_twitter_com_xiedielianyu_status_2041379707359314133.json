@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2041321699225051322",
+    "created_at": "2026-04-07T04:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041379707359314133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1972623872672546816",
+          "start": 0,
+          "username": "1eshine2gether"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041379707359314133",
+    "in_reply_to_user_id": "1972623872672546816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041321699225051322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1eshine2gether 来拉低中奖率了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041321691926921216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ7Q2-agAAgW4I.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2041321699225051322",
+        "created_at": "2026-04-07T04:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041379707359314133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1972623872672546816",
+              "start": 0,
+              "username": "1eshine2gether"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041379707359314133",
+        "in_reply_to_user_id": "1972623872672546816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041321699225051322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1eshine2gether 来拉低中奖率了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041321691926921216"
+          ]
+        },
+        "author_id": "1972623872672546816",
+        "conversation_id": "2041321699225051322",
+        "created_at": "2026-04-07T01:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041321699225051322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrq271mcAe",
+              "end": 65,
+              "expanded_url": "https://x.com/1eshine2gether/status/2041321699225051322/photo/1",
+              "media_key": "3_2041321691926921216",
+              "start": 42,
+              "url": "https://t.co/rrq271mcAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041321699225051322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 631,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "过300粉丝抽奖。3个188。\n点赞转发就行。三天后开奖（要到300粉。应该可以） https://t.co/rrq271mcAe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，然后我不知道应该写什么了（",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034654128308465664/unp1CzjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 15,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 67
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T11:27:08.000Z",
+        "description": "很抱歉，成为一个破落户。虫某人的185天下海生涯",
+        "id": "1972623872672546816",
+        "location": "188🚪解锁线下验证15",
+        "name": "虫儿飞",
+        "pinned_tweet_id": "2034562477669982470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972636807151108096/3gqPnOh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 74,
+          "like_count": 683,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 509
+        },
+        "username": "1eshine2gether",
+        "verified": false
+      }
+    ]
+  }
+}

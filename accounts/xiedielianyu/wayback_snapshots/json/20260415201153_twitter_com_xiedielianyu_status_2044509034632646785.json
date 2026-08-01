@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2044457991987134748",
+    "created_at": "2026-04-15T20:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T21:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044509034632646785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1816244905464979456",
+          "start": 0,
+          "username": "fatalis_zero"
+        },
+        {
+          "end": 25,
+          "id": "1858393719080366080",
+          "start": 14,
+          "username": "xiaomonuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044509034632646785",
+    "in_reply_to_user_id": "1816244905464979456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044464378280399287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fatalis_zero @xiaomonuya 并不是，跳楼其实很痛苦，没死也会，除非是头着地，安眠药会导致窒息死也很难受，卧轨心理压力就已经巨大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2044457991987134748",
+        "created_at": "2026-04-15T20:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T21:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044509034632646785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1816244905464979456",
+              "start": 0,
+              "username": "fatalis_zero"
+            },
+            {
+              "end": 25,
+              "id": "1858393719080366080",
+              "start": 14,
+              "username": "xiaomonuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044509034632646785",
+        "in_reply_to_user_id": "1816244905464979456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044464378280399287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fatalis_zero @xiaomonuya 并不是，跳楼其实很痛苦，没死也会，除非是头着地，安眠药会导致窒息死也很难受，卧轨心理压力就已经巨大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816244905464979456",
+        "conversation_id": "2044457991987134748",
+        "created_at": "2026-04-15T17:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044464378280399287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858393719080366080",
+              "start": 0,
+              "username": "xiaomonuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044464378280399287",
+        "in_reply_to_user_id": "1858393719080366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044457991987134748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomonuya 卧轨，高楼层，因为冲击太大所以不会有什么痛苦（大概）话说经常在各种作品看到大量服用安眠药，这个会有效吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 32,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T22:52:13.000Z",
+        "description": "",
+        "id": "1816244905464979456",
+        "name": "sassally",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820030736327438337/EZjGkq--_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "fatalis_zero",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻，出生20101130\n優點：会点魔术～～～比赛拿过两年亚军，魔术爱好者内中低水平（毕竟我还小）\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的想给我发性器照片的给我滚～～～！\n🚪52喵\n我是跨性別喵",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2043253761955819941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043392424173871104/qXbPDiSG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 136,
+          "like_count": 2340,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 3325
+        },
+        "username": "xiaomonuya",
+        "verified": false
+      }
+    ]
+  }
+}

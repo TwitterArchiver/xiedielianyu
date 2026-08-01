@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045961100924182528"
+      ]
+    },
+    "author_id": "2016171535179120642",
+    "conversation_id": "2045961102945915260",
+    "created_at": "2026-04-19T20:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T21:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045961102945915260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NcoKNQnAU7",
+          "end": 153,
+          "expanded_url": "https://x.com/xiedielianyu/status/2045961102945915260/photo/1",
+          "media_key": "3_2045961100924182528",
+          "start": 130,
+          "url": "https://t.co/NcoKNQnAU7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045961102945915260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是的，硬让想死的人活下去是一种压力，如果早就决定好了自杀的我不会干预太多（因为我说了也没有用）至于我大概率不会自杀了，因为我死了我在意的人会难过，我也还有很多想做的事情（我自残其实是为了活下去，不然我可能会冲动做傻事）我最满足的时间应该是今年1-2月的时候？ https://t.co/NcoKNQnAU7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2045961100924182528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGS2yATaYAACWzk.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045961100924182528"
+          ]
+        },
+        "author_id": "2016171535179120642",
+        "conversation_id": "2045961102945915260",
+        "created_at": "2026-04-19T20:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T21:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045961102945915260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcoKNQnAU7",
+              "end": 153,
+              "expanded_url": "https://x.com/xiedielianyu/status/2045961102945915260/photo/1",
+              "media_key": "3_2045961100924182528",
+              "start": 130,
+              "url": "https://t.co/NcoKNQnAU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045961102945915260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的，硬让想死的人活下去是一种压力，如果早就决定好了自杀的我不会干预太多（因为我说了也没有用）至于我大概率不会自杀了，因为我死了我在意的人会难过，我也还有很多想做的事情（我自残其实是为了活下去，不然我可能会冲动做傻事）我最满足的时间应该是今年1-2月的时候？ https://t.co/NcoKNQnAU7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 43,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 523
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      }
+    ]
+  }
+}

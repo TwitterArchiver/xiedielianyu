@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2046249175944421560",
+    "created_at": "2026-04-20T20:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T21:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046332587761926165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1993614982165176320",
+          "start": 0,
+          "username": "RingLingYan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046332587761926165",
+    "in_reply_to_user_id": "1993614982165176320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046249175944421560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RingLingYan 送刀好像不可以用三角券只能用三角币？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2046249173247533056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGW8yBVbIAAKv7b.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2046249175944421560",
+        "created_at": "2026-04-20T20:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T21:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046332587761926165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1993614982165176320",
+              "start": 0,
+              "username": "RingLingYan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046332587761926165",
+        "in_reply_to_user_id": "1993614982165176320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046249175944421560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RingLingYan 送刀好像不可以用三角券只能用三角币？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046249173247533056"
+          ]
+        },
+        "author_id": "1993614982165176320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046249175944421560",
+        "created_at": "2026-04-20T15:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046249175944421560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQJreuvHMj",
+              "end": 59,
+              "expanded_url": "https://x.com/RingLingYan/status/2046249175944421560/photo/1",
+              "media_key": "3_2046249173247533056",
+              "start": 36,
+              "url": "https://t.co/jQJreuvHMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046249175944421560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 478,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来卖了砖皮想给朋友送这个刀的，结果第一次送不知道咋搞，买到自己号里了 https://t.co/jQJreuvHMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 48,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T09:37:22.000Z",
+        "description": "04女大，顺顺顺顺顺女，偶尔会od，158/53，向往有很多很多朋友，欢迎扩列和骚扰🥰",
+        "id": "1993614982165176320",
+        "name": "蓝井抚子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040830625729650688/XKv_fWqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 383,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 222
+        },
+        "username": "RingLingYan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2044393091583586383",
+    "created_at": "2026-04-15T20:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T21:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044507000567173538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963088360110530560",
+          "start": 0,
+          "username": "charlotte1020W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044507000567173538",
+    "in_reply_to_user_id": "1963088360110530560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044502948336619652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@charlotte1020W 我则认为这是一种抱团取暖，可以让部分人认识到自己不是异类，但是我不希望再有人死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2044393091583586383",
+        "created_at": "2026-04-15T20:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T21:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044507000567173538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963088360110530560",
+              "start": 0,
+              "username": "charlotte1020W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044507000567173538",
+        "in_reply_to_user_id": "1963088360110530560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044502948336619652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charlotte1020W 我则认为这是一种抱团取暖，可以让部分人认识到自己不是异类，但是我不希望再有人死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963088360110530560",
+        "conversation_id": "2044393091583586383",
+        "created_at": "2026-04-15T19:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T20:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044502948336619652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044502948336619652",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044501779107483901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu 蒽其实我对于有自杀倾向群体一般不会做评价\n某些时候我觉得社交平台推送机制也是帮凶\n应该让这些无论发自杀文案/图片的帖子减少被推送\n让这群人就自成一圈\n以减少可能引来的恶意\n这样也对一些晕血的人有好处\n但是随意无缘由释放恶意会被任何群体厌恶，包括其同类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 32,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T03:55:23.000Z",
+        "description": "殁亡正是结果，崩毁便是必然\n混乱亦是秩序，死寂即是终局\n\n鲜卑-汉-契丹-百越",
+        "id": "1963088360110530560",
+        "location": "奣",
+        "name": "剣〆雪希 Ken Yuki",
+        "pinned_tweet_id": "2042612089513013252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042332789140340736/HWqZNsC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 123,
+          "like_count": 84,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 6285
+        },
+        "username": "charlotte1020W",
+        "verified": false
+      }
+    ]
+  }
+}

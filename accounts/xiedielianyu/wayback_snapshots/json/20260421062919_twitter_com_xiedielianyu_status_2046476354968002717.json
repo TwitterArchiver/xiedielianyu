@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2046283913149247532",
+    "created_at": "2026-04-21T06:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T07:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046476354968002717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1959892946926649344",
+          "start": 0,
+          "username": "Kiss_Yu_Forever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046476354968002717",
+    "in_reply_to_user_id": "1959892946926649344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046283913149247532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiss_Yu_Forever 蹲蹲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2046283913149247532",
+        "created_at": "2026-04-21T06:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046476354968002717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959892946926649344",
+              "start": 0,
+              "username": "Kiss_Yu_Forever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046476354968002717",
+        "in_reply_to_user_id": "1959892946926649344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046283913149247532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiss_Yu_Forever 蹲蹲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959892946926649344",
+        "conversation_id": "2046283913149247532",
+        "created_at": "2026-04-20T17:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046283913149247532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiss_yu_foreve…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/kiss_yu_forever/status/2044120480773484948",
+              "start": 46,
+              "url": "https://t.co/AWfC0Vfysy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046283913149247532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1232,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044120480773484948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "直接抽了得了95fo四舍五入一下也是100\n钱放钱包里就不得劲 点赞评论转发都🉑\n周四开奖 https://t.co/AWfC0Vfysy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 50,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:17:58.000Z",
+        "description": "幸福请降临小妤手心",
+        "id": "1959892946926649344",
+        "location": "我的床",
+        "name": "春刻雨🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025647411516063744/3qa8UBjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 347,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 677
+        },
+        "username": "Kiss_Yu_Forever",
+        "verified": false
+      }
+    ]
+  }
+}

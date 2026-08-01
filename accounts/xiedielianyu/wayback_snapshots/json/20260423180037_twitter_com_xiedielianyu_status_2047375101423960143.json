@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2047331588162334756",
+    "created_at": "2026-04-23T18:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047375101423960143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1497948979270619136",
+          "start": 0,
+          "username": "AKASaltedfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047375101423960143",
+    "in_reply_to_user_id": "1497948979270619136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047362796783047105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKASaltedfish 我感觉头晕晕的，站不起来，没什么好o的（至少我不推荐）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2047331588162334756",
+        "created_at": "2026-04-23T18:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047375101423960143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1497948979270619136",
+              "start": 0,
+              "username": "AKASaltedfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047375101423960143",
+        "in_reply_to_user_id": "1497948979270619136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047362796783047105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKASaltedfish 我感觉头晕晕的，站不起来，没什么好o的（至少我不推荐）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497948979270619136",
+        "conversation_id": "2047331588162334756",
+        "created_at": "2026-04-23T17:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047362796783047105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047362796783047105",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047331588162334756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu O愈美片是什么感觉，还没O过…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 58,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 654
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T14:57:51.000Z",
+        "description": "讨厌自己     ▎负能量集合体",
+        "id": "1497948979270619136",
+        "location": "Broken Heart",
+        "name": "Shiosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814616990411337729/HtVT7G3d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 399,
+          "like_count": 310,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 771
+        },
+        "username": "AKASaltedfish",
+        "verified": false
+      }
+    ]
+  }
+}

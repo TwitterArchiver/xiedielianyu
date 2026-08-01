@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2043310904008482893",
+    "created_at": "2026-04-14T17:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044099691311473151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599987342630002694",
+          "start": 0,
+          "username": "lny27974684"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044099691311473151",
+    "in_reply_to_user_id": "1599987342630002694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043310904008482893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lny27974684 在做出令人伤心的事情前，请先和亲近的人聊一聊好吗？（如果实在没有我也可以，虽然我不怎么看推特私信，但是看到了就会好好安慰的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2043310904008482893",
+        "created_at": "2026-04-14T17:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044099691311473151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599987342630002694",
+              "start": 0,
+              "username": "lny27974684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044099691311473151",
+        "in_reply_to_user_id": "1599987342630002694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043310904008482893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lny27974684 在做出令人伤心的事情前，请先和亲近的人聊一聊好吗？（如果实在没有我也可以，虽然我不怎么看推特私信，但是看到了就会好好安慰的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599987342630002694",
+        "conversation_id": "2043310904008482893",
+        "created_at": "2026-04-12T12:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043310904008482893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043310904008482893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受 我会不会哪一天也做一些极端的事🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 27,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T04:41:49.000Z",
+        "description": "06/友跨/计算机大二/找我聊天/无政治立场/互fo(^▽^)o",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wansui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wansui",
+                "start": 0,
+                "url": "https://t.co/jnMVzihyBo"
+              }
+            ]
+          }
+        },
+        "id": "1599987342630002694",
+        "name": "万穗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016575350965510144/2XNPGmpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 281,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 683
+        },
+        "url": "https://t.co/jnMVzihyBo",
+        "username": "lny27974684",
+        "verified": true
+      }
+    ]
+  }
+}

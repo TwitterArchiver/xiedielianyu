@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2039890500090728451",
+    "created_at": "2026-04-03T04:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039921883307512271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2025838696294227968",
+          "start": 0,
+          "username": "Xilne_cc"
+        },
+        {
+          "end": 22,
+          "id": "2024195400442531841",
+          "start": 10,
+          "username": "zhngy228309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039921883307512271",
+    "in_reply_to_user_id": "2025838696294227968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039890500090728451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xilne_cc @zhngy228309 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2039890500090728451",
+        "created_at": "2026-04-03T04:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039921883307512271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025838696294227968",
+              "start": 0,
+              "username": "Xilne_cc"
+            },
+            {
+              "end": 22,
+              "id": "2024195400442531841",
+              "start": 10,
+              "username": "zhngy228309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039921883307512271",
+        "in_reply_to_user_id": "2025838696294227968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039890500090728451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xilne_cc @zhngy228309 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2039890500090728451",
+        "created_at": "2026-04-03T02:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039890500090728451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039890500090728451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 362,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "200fo啦！感谢大家的支持和喜欢，来个穷人抽奖吧！\n一等奖：普瑞巴林一盒（折现18.8）×1\n二等奖：愈美片一盒（折现8.8）×1\n三等奖：5.2r×3\n抽奖方式：AI抽奖\n参与方式：关注点赞评论转发\n໒꒰ྀི ´ ꒳ ` ྀི꒱১小冬会一直在这里陪着大家哦！私信一直开放的，欢迎来聊天呀！\n开奖时间：4月6日下午4点整"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "无",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034654128308465664/unp1CzjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤‖oder‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 113,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 90,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 172,
+          "like_count": 1352,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 306
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "🩸痂痂 请多夸我(•̀ϖ•́ ) 同类互fo\nod｜自残｜抽烟\n10｜162cm｜40kg\n这是一条会发情的母狗。我可能会发裸照吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%97%82",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%97%82",
+                "start": 0,
+                "url": "https://t.co/FgU3Ypa1us"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "🚪70好友位",
+        "name": "痂",
+        "pinned_tweet_id": "2030616431369633873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025337650073534464/-h1idxzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 280,
+          "like_count": 3184,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 948
+        },
+        "url": "https://t.co/FgU3Ypa1us",
+        "username": "zhngy228309",
+        "verified": false
+      }
+    ]
+  }
+}

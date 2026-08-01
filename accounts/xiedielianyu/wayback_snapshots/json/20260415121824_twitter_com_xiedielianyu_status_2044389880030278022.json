@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2044389880030278022",
+    "created_at": "2026-04-15T12:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T13:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044389880030278022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841741161884504064",
+          "start": 3,
+          "username": "Miao_oTvTo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044389880030278022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044060750201962986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miao_oTvTo_: 我来搞个抽奖🎟️\n1️⃣88r✖️1\n2️⃣52r✖️1\n3️⃣13.14✖️5\n要求：关注我➕转发➕评论\n4.16开 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2044389880030278022",
+        "created_at": "2026-04-15T12:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044389880030278022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841741161884504064",
+              "start": 3,
+              "username": "Miao_oTvTo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044389880030278022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044060750201962986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miao_oTvTo_: 我来搞个抽奖🎟️\n1️⃣88r✖️1\n2️⃣52r✖️1\n3️⃣13.14✖️5\n要求：关注我➕转发➕评论\n4.16开 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841741161884504064",
+        "conversation_id": "2044060750201962986",
+        "created_at": "2026-04-14T14:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044060750201962986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044060750201962986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6327,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 74,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "我来搞个抽奖🎟️\n1️⃣88r✖️1\n2️⃣52r✖️1\n3️⃣13.14✖️5\n要求：关注我➕转发➕评论\n4.16开 😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 36,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T07:24:54.000Z",
+        "description": "祝我天天开心 睡个好觉\n匿名问答https://t.co/83lyR4WmfT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miao29318",
+                "end": 39,
+                "expanded_url": "https://ngl.link/miao29318",
+                "start": 16,
+                "url": "https://t.co/83lyR4WmfT"
+              }
+            ]
+          }
+        },
+        "id": "1841741161884504064",
+        "name": "泪池",
+        "pinned_tweet_id": "1896495494068846672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905216333316493312/VOLSQj_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10840,
+          "following_count": 114,
+          "like_count": 14692,
+          "listed_count": 21,
+          "media_count": 498,
+          "tweet_count": 8167
+        },
+        "username": "Miao_oTvTo_",
+        "verified": false
+      }
+    ]
+  }
+}

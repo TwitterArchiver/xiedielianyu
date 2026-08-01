@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2041149011202367768",
+    "created_at": "2026-04-06T21:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T22:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041262010969510149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599987342630002694",
+          "start": 0,
+          "username": "lny27974684"
+        },
+        {
+          "end": 26,
+          "id": "1851962067236065281",
+          "start": 13,
+          "username": "dzzzzz467732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041262010969510149",
+    "in_reply_to_user_id": "1599987342630002694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041151976646623645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lny27974684 @dzzzzz467732 笨蛋，少割一点吧🍬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2041149011202367768",
+        "created_at": "2026-04-06T21:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T22:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041262010969510149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599987342630002694",
+              "start": 0,
+              "username": "lny27974684"
+            },
+            {
+              "end": 26,
+              "id": "1851962067236065281",
+              "start": 13,
+              "username": "dzzzzz467732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041262010969510149",
+        "in_reply_to_user_id": "1599987342630002694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041151976646623645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lny27974684 @dzzzzz467732 笨蛋，少割一点吧🍬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599987342630002694",
+        "conversation_id": "2041149011202367768",
+        "created_at": "2026-04-06T13:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041151976646623645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1851962067236065281",
+              "start": 0,
+              "username": "dzzzzz467732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041151976646623645",
+        "in_reply_to_user_id": "1851962067236065281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041149011202367768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzzzzz467732 我当时都不知道😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "无",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034654128308465664/unp1CzjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T04:41:49.000Z",
+        "description": "06/友跨/计算机大二/找我聊天/无政治立场/互fo(^▽^)o",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wansui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wansui",
+                "start": 0,
+                "url": "https://t.co/jnMVzihyBo"
+              }
+            ]
+          }
+        },
+        "id": "1599987342630002694",
+        "name": "万穗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016575350965510144/2XNPGmpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 233,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/jnMVzihyBo",
+        "username": "lny27974684",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-31T12:19:07.000Z",
+        "description": "s",
+        "id": "1851962067236065281",
+        "name": "炸玉ちゃん，梦想笑了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989917042187931651/KRczj1M-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 104,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 78
+        },
+        "username": "dzzzzz467732",
+        "verified": false
+      }
+    ]
+  }
+}

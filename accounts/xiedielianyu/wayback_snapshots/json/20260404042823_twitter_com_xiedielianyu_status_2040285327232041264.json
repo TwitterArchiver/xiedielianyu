@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2040281738228965565",
+    "created_at": "2026-04-04T04:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T05:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040285327232041264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2024195400442531841",
+          "start": 0,
+          "username": "zhngy228309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040285327232041264",
+    "in_reply_to_user_id": "2024195400442531841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040281738228965565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngy228309 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2040281738228965565",
+        "created_at": "2026-04-04T04:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040285327232041264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2024195400442531841",
+              "start": 0,
+              "username": "zhngy228309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040285327232041264",
+        "in_reply_to_user_id": "2024195400442531841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040281738228965565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngy228309 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024195400442531841",
+        "conversation_id": "2040281738228965565",
+        "created_at": "2026-04-04T04:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040281738228965565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040281738228965565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "400fo抽奖喵！😾\n一等奖一瓶白兔*1（可折现85r）\n二等奖一盒红普*2（可折现20r）\n三等奖一盒愈美*3（可折现9r）\n感谢大家！转发/评论参与喵😽🫳🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "无",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034654128308465664/unp1CzjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "🩸痂痂 请多夸我(•̀ϖ•́ ) \n同类互fo 直fo就是喜歡你\nod｜自残｜抽烟\n10｜162cm｜40kg 可以叫我小予喵🥺\n第二人格@zyuyuouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "zyuyuouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%97%82",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%97%82",
+                "start": 0,
+                "url": "https://t.co/FgU3Ypa1us"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "🚪70好友位",
+        "name": "痂",
+        "pinned_tweet_id": "2030616431369633873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025337650073534464/-h1idxzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 301,
+          "like_count": 3302,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/FgU3Ypa1us",
+        "username": "zhngy228309",
+        "verified": false
+      }
+    ]
+  }
+}

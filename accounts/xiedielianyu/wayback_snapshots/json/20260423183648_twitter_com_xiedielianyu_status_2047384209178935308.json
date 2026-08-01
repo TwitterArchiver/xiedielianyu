@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2047384201134276667",
+    "created_at": "2026-04-23T18:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047384209178935308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/xiedielianyu",
+          "end": 103,
+          "expanded_url": "https://ngl.link/xiedielianyu",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2046046482412040192/6QWZW7U7?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2046046482412040192/6QWZW7U7?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 80,
+          "status": 200,
+          "title": "@xiedielianyu: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/xiedielianyu",
+          "url": "https://t.co/xNkxvYdihV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047384209178935308",
+    "in_reply_to_user_id": "2016171535179120642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047384205307658723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "生命永远是第一位的，生命不可能有第二次，不要因为害怕麻烦了他们就不去拨打电话，如果你实在不想拨打心理援助电话或者只是需要简单的安慰也不妨来我的匿名提问箱寻求安慰https://t.co/xNkxvYdihV，我在，让你一个人独自承受了这么多年，辛苦了。希望你我能够见证每一天的太阳\n——致每一位痛苦的孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2047384201134276667",
+        "created_at": "2026-04-23T18:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047384209178935308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/xiedielianyu",
+              "end": 103,
+              "expanded_url": "https://ngl.link/xiedielianyu",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2046046482412040192/6QWZW7U7?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046046482412040192/6QWZW7U7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "@xiedielianyu: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/xiedielianyu",
+              "url": "https://t.co/xNkxvYdihV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047384209178935308",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047384205307658723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生命永远是第一位的，生命不可能有第二次，不要因为害怕麻烦了他们就不去拨打电话，如果你实在不想拨打心理援助电话或者只是需要简单的安慰也不妨来我的匿名提问箱寻求安慰https://t.co/xNkxvYdihV，我在，让你一个人独自承受了这么多年，辛苦了。希望你我能够见证每一天的太阳\n——致每一位痛苦的孩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2047384201134276667",
+        "created_at": "2026-04-23T18:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047384205307658723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047384205307658723",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047384201134276667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各地区援助电话\n全国统一:12356\n北京:010-82951332\n上海:021-962525\n广州:020-81899120\n深圳:0755-12356\n杭州:0571-85029595\n南京:025-83712977\n武汉:027-59427263\n成都:028-96008\n河南:0373-7095888\n山西:0351-8726199\n云南:0871-65011111\n海南:0898-96363\n哈尔滨:0451-82480130\n大连:0411-84689595"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 58,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      }
+    ]
+  }
+}

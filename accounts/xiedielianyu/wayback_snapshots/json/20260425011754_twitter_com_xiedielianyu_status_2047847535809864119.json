@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2047847535809864119",
+    "created_at": "2026-04-25T01:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047847535809864119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878091007453286400",
+          "start": 3,
+          "username": "EoivLanY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047847535809864119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047725535967789437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EoivLanY: 🎁我又来给大家抽奖啦🎁\n🩸600fo抽奖福利❄️\n转发🌹评论 此抽奖贴参与\n⚠️pr/ym购买联系：tg @EoivlannnK  x：EoivLanT\n⚠️需要买的宝宝可以私信⚠️\n一等奖：288🧧\n二等奖：188🧧\n三等奖：99🧧\n四等奖：奶茶5杯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2047847535809864119",
+        "created_at": "2026-04-25T01:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047847535809864119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878091007453286400",
+              "start": 3,
+              "username": "EoivLanY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047847535809864119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047725535967789437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EoivLanY: 🎁我又来给大家抽奖啦🎁\n🩸600fo抽奖福利❄️\n转发🌹评论 此抽奖贴参与\n⚠️pr/ym购买联系：tg @EoivlannnK  x：EoivLanT\n⚠️需要买的宝宝可以私信⚠️\n一等奖：288🧧\n二等奖：188🧧\n三等奖：99🧧\n四等奖：奶茶5杯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878091007453286400",
+        "conversation_id": "2047725535967789437",
+        "created_at": "2026-04-24T17:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047725535967789437"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047725535967789437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 830,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "🎁我又来给大家抽奖啦🎁\n🩸600fo抽奖福利❄️\n转发🌹评论 此抽奖贴参与\n⚠️pr/ym购买联系：tg @EoivlannnK  x：EoivLanT\n⚠️需要买的宝宝可以私信⚠️\n一等奖：288🧧\n二等奖：188🧧\n三等奖：99🧧\n四等奖：奶茶5杯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2047384201134276667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 61,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 683
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T14:46:17.000Z",
+        "description": "耐药王子 10800mg普瑞耐活王 交朋友/互fo/血图od/喜欢听歌/双相/重度抑郁/重度焦虑/代购普瑞愈美片 随时发福利 价格不从高到低 多转发 多参与",
+        "id": "1878091007453286400",
+        "location": "有你爱我的地方",
+        "name": "泪滴滴滴",
+        "pinned_tweet_id": "2047581773421539756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046512778790510592/HXLV5oxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 77,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 53
+        },
+        "username": "EoivLanY",
+        "verified": false
+      }
+    ]
+  }
+}

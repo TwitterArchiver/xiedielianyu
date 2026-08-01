@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2043135871218753845",
+    "created_at": "2026-04-12T05:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043193977973969309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705548701941325824",
+          "start": 0,
+          "username": "liguangyao0509"
+        },
+        {
+          "end": 26,
+          "id": "1928705633135767600",
+          "start": 16,
+          "username": "Coxe_Pica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043193977973969309",
+    "in_reply_to_user_id": "1705548701941325824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043144363619045503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liguangyao0509 @Coxe_Pica srs俗称变性手术"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2043135871218753845",
+        "created_at": "2026-04-12T05:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043193977973969309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705548701941325824",
+              "start": 0,
+              "username": "liguangyao0509"
+            },
+            {
+              "end": 26,
+              "id": "1928705633135767600",
+              "start": 16,
+              "username": "Coxe_Pica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043193977973969309",
+        "in_reply_to_user_id": "1705548701941325824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043144363619045503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liguangyao0509 @Coxe_Pica srs俗称变性手术"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705548701941325824",
+        "conversation_id": "2043135871218753845",
+        "created_at": "2026-04-12T01:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043144363619045503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Coxe_Pica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043144363619045503",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043135871218753845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coxe_Pica srs和出柜是什么意思啊 我问了好多人都不和我解释"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 18,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T11:44:40.000Z",
+        "description": "",
+        "id": "1705548701941325824",
+        "name": "李光耀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705602473711329280/NGJtxqG4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 76,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "liguangyao0509",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13初中生7年级\nMtf/女孩子啦年龄党/无证含糖🏳️‍⚧️🍥\n常驻湖北在湖北上学\n无心理问题/苹果粉\n分享我的日常生活和技术\n感谢你的关注和喜欢ó\n\n“Keep Going and don’t stop.”✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TBhidJAcQE",
+                "end": 23,
+                "expanded_url": "http://qm.qq.com/q/TBhidJAcQE",
+                "start": 0,
+                "url": "https://t.co/oMMUoETmUT"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北",
+        "name": "Coxe_Pica 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042574562454614016/vmVviffD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 15,
+          "like_count": 379,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/oMMUoETmUT",
+        "username": "Coxe_Pica",
+        "verified": true
+      }
+    ]
+  }
+}

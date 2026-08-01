@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2044103107219792107",
+    "created_at": "2026-04-15T19:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T20:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044503365871407371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2010226069853614082",
+          "start": 0,
+          "username": "wcyxfx666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044503365871407371",
+    "in_reply_to_user_id": "2010226069853614082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044447996503634409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wcyxfx666 嗯，这段时间很难撑过去吧？累了就休息会，难受可以哭，我在这陪你，有什么都可以和我说，我期待你好起来❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2044103107219792107",
+        "created_at": "2026-04-15T19:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T20:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044503365871407371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2010226069853614082",
+              "start": 0,
+              "username": "wcyxfx666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044503365871407371",
+        "in_reply_to_user_id": "2010226069853614082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044447996503634409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wcyxfx666 嗯，这段时间很难撑过去吧？累了就休息会，难受可以哭，我在这陪你，有什么都可以和我说，我期待你好起来❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010226069853614082",
+        "conversation_id": "2044103107219792107",
+        "created_at": "2026-04-15T16:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044447996503634409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044447996503634409",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044103107219792107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu 确实是这样，感觉最近总是对一些之前已经习以为常的事感到难受..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 32,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 347
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T05:43:46.000Z",
+        "description": "",
+        "id": "2010226069853614082",
+        "name": "wcyxfx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022680326598987785/qnQlmWc0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 60,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "wcyxfx666",
+        "verified": false
+      }
+    ]
+  }
+}

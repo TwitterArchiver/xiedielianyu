@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2047040521840029702",
+    "created_at": "2026-04-23T01:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T02:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047120619586912498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1993614982165176320",
+          "start": 0,
+          "username": "RingLingYan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047120619586912498",
+    "in_reply_to_user_id": "1993614982165176320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047055348343968222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RingLingYan 我也QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2047040521840029702",
+        "created_at": "2026-04-23T01:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047120619586912498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1993614982165176320",
+              "start": 0,
+              "username": "RingLingYan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047120619586912498",
+        "in_reply_to_user_id": "1993614982165176320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047055348343968222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RingLingYan 我也QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993614982165176320",
+        "conversation_id": "2047040521840029702",
+        "created_at": "2026-04-22T20:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T21:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047055348343968222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047055348343968222",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047040521840029702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu 我也想要👁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 55,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T09:37:22.000Z",
+        "description": "04女大，顺顺顺顺顺女，偶尔会od，158/53，向往有很多很多朋友，欢迎扩列和骚扰🥰",
+        "id": "1993614982165176320",
+        "name": "蓝井抚子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040830625729650688/XKv_fWqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 404,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 228
+        },
+        "username": "RingLingYan",
+        "verified": false
+      }
+    ]
+  }
+}

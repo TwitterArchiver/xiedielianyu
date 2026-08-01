@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2041010342852190539",
+    "created_at": "2026-04-07T03:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T04:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041359780602958325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041359780602958325",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041010342852190539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 我一开始是想调戏长得好看的小处男，结果发现他是同（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1265,
+        "media_key": "3_2041010340071415808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMgFy7bIAA880x.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2041010342852190539",
+        "created_at": "2026-04-07T03:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041359780602958325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041359780602958325",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041010342852190539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 我一开始是想调戏长得好看的小处男，结果发现他是同（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041010340071415808"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2041010342852190539",
+        "created_at": "2026-04-06T04:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041010342852190539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtlK1R8XsM",
+              "end": 56,
+              "expanded_url": "https://x.com/jianlvup/status/2041010342852190539/photo/1",
+              "media_key": "3_2041010340071415808",
+              "start": 33,
+              "url": "https://t.co/EtlK1R8XsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041010342852190539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1090,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "努力回想怎么跟兄弟认识来着？这货就跟魔丸一样突然炸进我的人生🤓🧐 https://t.co/EtlK1R8XsM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，然后我不知道应该写什么了（",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034654128308465664/unp1CzjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 61
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2040941277202747440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17412,
+          "following_count": 1454,
+          "like_count": 77232,
+          "listed_count": 60,
+          "media_count": 2893,
+          "tweet_count": 6121
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

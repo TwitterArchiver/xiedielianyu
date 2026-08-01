@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2068029350788968896",
+    "created_at": "2026-06-19T17:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068029350788968896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751240173650935808",
+          "start": 3,
+          "username": "Liver_MST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068029350788968896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067704835974025400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liver_MST: 1000fo抽奖！\n这次的奖品比上次的要丰富哦！还是一样，不要可以折现，奖品与兑现方式见图。\n关注并转发本帖以参与抽奖，6.20 12:00(UTC+8)截止。\nX可能吞repost，截止后我会发帖确认参与名单，并按转帖时间标号。若您的转帖被吞，请…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_2067704813060571137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLH2koLXQAEKu-I.jpg",
+        "width": 1044
+      },
+      {
+        "height": 1250,
+        "media_key": "3_2067704813060530176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLH2koLWoAA6_zV.jpg",
+        "width": 1856
+      },
+      {
+        "height": 1392,
+        "media_key": "3_2067704813039636480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLH2koGX0AAkn3z.jpg",
+        "width": 1856
+      },
+      {
+        "height": 1231,
+        "media_key": "3_2067704813056372736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLH2koKXMAAZk15.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2068029350788968896",
+        "created_at": "2026-06-19T17:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068029350788968896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751240173650935808",
+              "start": 3,
+              "username": "Liver_MST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068029350788968896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067704835974025400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liver_MST: 1000fo抽奖！\n这次的奖品比上次的要丰富哦！还是一样，不要可以折现，奖品与兑现方式见图。\n关注并转发本帖以参与抽奖，6.20 12:00(UTC+8)截止。\nX可能吞repost，截止后我会发帖确认参与名单，并按转帖时间标号。若您的转帖被吞，请…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067704813060571137",
+            "3_2067704813060530176",
+            "3_2067704813039636480",
+            "3_2067704813056372736"
+          ]
+        },
+        "author_id": "1751240173650935808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067704835974025400",
+        "created_at": "2026-06-18T20:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067704835974025400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rdJSVc2VJH",
+              "end": 182,
+              "expanded_url": "https://x.com/Liver_MST/status/2067704835974025400/photo/1",
+              "media_key": "3_2067704813060571137",
+              "start": 159,
+              "url": "https://t.co/rdJSVc2VJH"
+            },
+            {
+              "display_url": "pic.x.com/rdJSVc2VJH",
+              "end": 182,
+              "expanded_url": "https://x.com/Liver_MST/status/2067704835974025400/photo/1",
+              "media_key": "3_2067704813060530176",
+              "start": 159,
+              "url": "https://t.co/rdJSVc2VJH"
+            },
+            {
+              "display_url": "pic.x.com/rdJSVc2VJH",
+              "end": 182,
+              "expanded_url": "https://x.com/Liver_MST/status/2067704835974025400/photo/1",
+              "media_key": "3_2067704813039636480",
+              "start": 159,
+              "url": "https://t.co/rdJSVc2VJH"
+            },
+            {
+              "display_url": "pic.x.com/rdJSVc2VJH",
+              "end": 182,
+              "expanded_url": "https://x.com/Liver_MST/status/2067704835974025400/photo/1",
+              "media_key": "3_2067704813056372736",
+              "start": 159,
+              "url": "https://t.co/rdJSVc2VJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067704835974025400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7969,
+          "like_count": 179,
+          "quote_count": 9,
+          "reply_count": 119,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo抽奖！\n这次的奖品比上次的要丰富哦！还是一样，不要可以折现，奖品与兑现方式见图。\n关注并转发本帖以参与抽奖，6.20 12:00(UTC+8)截止。\nX可能吞repost，截止后我会发帖确认参与名单，并按转帖时间标号。若您的转帖被吞，请在12小时内联系我！\n随后，我将使用随机数生成器准时抽取并发布结果。 https://t.co/rdJSVc2VJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2047384201134276667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 58,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:46:20.000Z",
+        "description": "欢迎私信扩列互fo/可以叫我帕克/🎂2006.07.01/音ゲー/maimai暁神確認/🇨🇳简体中文|🇹🇼繁體中文|🇬🇧🇺🇸English|🇯🇵日本語の投稿はすべて機械翻訳です。おかしな表現があったらごめんね！",
+        "id": "1751240173650935808",
+        "location": "Guangzhou, China",
+        "name": "Livermst",
+        "pinned_tweet_id": "2067917257104068920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924381317656576/Ov7oEjtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 1371,
+          "like_count": 1,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 1686
+        },
+        "url": "",
+        "username": "Liver_MST",
+        "verified": false
+      }
+    ]
+  }
+}

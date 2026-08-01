@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2044103107219792107",
+    "created_at": "2026-04-15T14:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044426860600430894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906233241448939521",
+          "start": 0,
+          "username": "muci2077893ma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044426860600430894",
+    "in_reply_to_user_id": "1906233241448939521",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044152949111435417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muci2077893ma 😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2044103107219792107",
+        "created_at": "2026-04-15T14:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044426860600430894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906233241448939521",
+              "start": 0,
+              "username": "muci2077893ma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044426860600430894",
+        "in_reply_to_user_id": "1906233241448939521",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044152949111435417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muci2077893ma 😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906233241448939521",
+        "conversation_id": "2044103107219792107",
+        "created_at": "2026-04-14T20:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T21:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044152949111435417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044152949111435417",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044103107219792107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu 太感人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 32,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T06:34:34.000Z",
+        "description": "快来跟我聊天！我虽然是涩批但是不会对陌生人发情，不用担心我聊着聊着突然蹦出来一张吊照，很温良，我是男的",
+        "id": "1906233241448939521",
+        "location": "上海",
+        "name": "沐辞",
+        "pinned_tweet_id": "2041036206948147329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041166608274694144/9RodYzUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 11383,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1543
+        },
+        "username": "muci2077893ma",
+        "verified": false
+      }
+    ]
+  }
+}

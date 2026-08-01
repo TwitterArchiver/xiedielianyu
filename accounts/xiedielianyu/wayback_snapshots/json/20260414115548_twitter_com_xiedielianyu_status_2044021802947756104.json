@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2044021802947756104",
+    "created_at": "2026-04-14T11:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044021802947756104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1853967550381445127",
+          "start": 3,
+          "username": "Ahalfhediboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044021802947756104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043875735530557519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ahalfhediboy: 我100fo了！给大家抽个奖\n1等奖 52r 1位\n2等奖 红普2盒（可折40r） 2位\n3等奖 10r红包 3位\n感谢奖 2.22 5.2 5.55 6.6 8.8 9.9 随机小红包5个 \n关注+转发参与 感谢奖在评论里面抽！！！\n本周三…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2044021802947756104",
+        "created_at": "2026-04-14T11:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044021802947756104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853967550381445127",
+              "start": 3,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044021802947756104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043875735530557519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ahalfhediboy: 我100fo了！给大家抽个奖\n1等奖 52r 1位\n2等奖 红普2盒（可折40r） 2位\n3等奖 10r红包 3位\n感谢奖 2.22 5.2 5.55 6.6 8.8 9.9 随机小红包5个 \n关注+转发参与 感谢奖在评论里面抽！！！\n本周三…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2043875735530557519",
+        "created_at": "2026-04-14T02:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043875735530557519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043875735530557519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1822,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "我100fo了！给大家抽个奖\n1等奖 52r 1位\n2等奖 红普2盒（可折40r） 2位\n3等奖 10r红包 3位\n感谢奖 2.22 5.2 5.55 6.6 8.8 9.9 随机小红包5个 \n关注+转发参与 感谢奖在评论里面抽！！！\n本周三 Apr 15 开奖 多多参与呀！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 27,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 220,
+          "like_count": 2954,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 890
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

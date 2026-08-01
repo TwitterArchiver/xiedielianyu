@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2046591075637416175",
+    "created_at": "2026-04-21T15:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046615553021014202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1505767450385690625",
+          "start": 0,
+          "username": "Alistai33955292"
+        },
+        {
+          "end": 29,
+          "id": "2024195400442531841",
+          "start": 17,
+          "username": "zhngy228309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046615553021014202",
+    "in_reply_to_user_id": "1505767450385690625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046591075637416175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alistai33955292 @zhngy228309 蹲蹲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2046591075637416175",
+        "created_at": "2026-04-21T15:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046615553021014202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1505767450385690625",
+              "start": 0,
+              "username": "Alistai33955292"
+            },
+            {
+              "end": 29,
+              "id": "2024195400442531841",
+              "start": 17,
+              "username": "zhngy228309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046615553021014202",
+        "in_reply_to_user_id": "1505767450385690625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046591075637416175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alistai33955292 @zhngy228309 蹲蹲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505767450385690625",
+        "conversation_id": "2046591075637416175",
+        "created_at": "2026-04-21T14:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046591075637416175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046591075637416175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 507,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "500fo预告抽奖\n一等奖:32.9r*1\n 二等奖:13.14*2\n三等奖8.88*3\n转+评+关参与\n500fo开奖或者最迟5.3开奖\n（另外抽几个我喜欢的宝宝6.66r）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 53,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "06丨重焦重抑丨餐券(暂时戒割中)丨同性有浪漫倾向无性恋丨全性别友好丨社交极度恐惧……欢迎互fo！丨🚪52纯绿陪聊可加lxfs丨希望爱我的我爱的人永远幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/Xu9CGM7srL"
+              }
+            ]
+          }
+        },
+        "id": "1505767450385690625",
+        "location": "天国",
+        "name": "🌰",
+        "pinned_tweet_id": "2040861103748731388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045141613958340608/DmfkJuqE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 533,
+          "like_count": 1985,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/Xu9CGM7srL",
+        "username": "Alistai33955292",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "🩸痂痂 请多夸我(•̀ϖ•́ ) \n同类互fo 直fo就是喜歡你 \n我爱发啥发啥\nod｜自残｜抽烟\n10年｜162cm｜40kg 可以叫我小予喵🥺\n互fo我爱你们w 回fo私信 查成分\n第二人格@zyuyuouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "zyuyuouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%97%82",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%97%82",
+                "start": 0,
+                "url": "https://t.co/FgU3Ypa1us"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "🚪70好友位 纯绿",
+        "name": "痂",
+        "pinned_tweet_id": "2042223647331582256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044364789103935488/__gBwnPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 499,
+          "like_count": 5473,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2219
+        },
+        "url": "https://t.co/FgU3Ypa1us",
+        "username": "zhngy228309",
+        "verified": false
+      }
+    ]
+  }
+}

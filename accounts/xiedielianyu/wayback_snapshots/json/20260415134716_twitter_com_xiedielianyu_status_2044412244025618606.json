@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2038972502052098272",
+    "created_at": "2026-04-15T13:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044412244025618606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1501238454910271489",
+          "start": 0,
+          "username": "whalexxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044412244025618606",
+    "in_reply_to_user_id": "1501238454910271489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038972502052098272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whalexxs 姐姐，你对象两个号好像都冻结了，是怎么了咩？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1661,
+        "media_key": "3_2038972499325792256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvir2kasAA5CyY.jpg",
+        "width": 757
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2038972502052098272",
+        "created_at": "2026-04-15T13:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044412244025618606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1501238454910271489",
+              "start": 0,
+              "username": "whalexxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044412244025618606",
+        "in_reply_to_user_id": "1501238454910271489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038972502052098272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whalexxs 姐姐，你对象两个号好像都冻结了，是怎么了咩？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038972499325792256"
+          ]
+        },
+        "author_id": "1501238454910271489",
+        "conversation_id": "2038972502052098272",
+        "created_at": "2026-03-31T13:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038972502052098272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zg0hb2z72X",
+              "end": 57,
+              "expanded_url": "https://x.com/whalexxs/status/2038972502052098272/photo/1",
+              "media_key": "3_2038972499325792256",
+              "start": 34,
+              "url": "https://t.co/zg0hb2z72X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038972502052098272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一觉醒来QQ一片清爽，心悦会员也表示什么都不知道，你们有什么头猪吗 https://t.co/zg0hb2z72X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 32,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T16:48:51.000Z",
+        "description": "没把南娘，单纯在小蓝鸟空间说点bb空间不敢发的话，老婆新号是@yumeng0715（原账号@RainLemon0715）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "yumeng0715"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "RainLemon0715"
+              }
+            ]
+          }
+        },
+        "id": "1501238454910271489",
+        "name": "whalexxs",
+        "pinned_tweet_id": "2023722194099138752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934016904769015808/ezNSSYC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 20,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "username": "whalexxs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2043597008481726731",
+    "created_at": "2026-04-13T08:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043611777095934423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680367973884735488",
+          "start": 0,
+          "username": "imgyeong8077"
+        },
+        {
+          "end": 25,
+          "id": "1716689663443005440",
+          "start": 14,
+          "username": "DongS49455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043611777095934423",
+    "in_reply_to_user_id": "1680367973884735488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043597008481726731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imgyeong8077 @DongS49455 蹲蹲喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2043597008481726731",
+        "created_at": "2026-04-13T08:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043611777095934423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680367973884735488",
+              "start": 0,
+              "username": "imgyeong8077"
+            },
+            {
+              "end": 25,
+              "id": "1716689663443005440",
+              "start": 14,
+              "username": "DongS49455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043611777095934423",
+        "in_reply_to_user_id": "1680367973884735488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043597008481726731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imgyeong8077 @DongS49455 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680367973884735488",
+        "conversation_id": "2043597008481726731",
+        "created_at": "2026-04-13T07:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043597008481726731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043597008481726731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "终于100fo啦 给宝宝们搞个小小抽奖\n\n一等奖：🧧52x1人\n一等奖：三盒绿普（折现30）x1人\n二等奖：一包烟（折现20）x2人\n三等奖：🧧5.2x4人\n\n【参与条件】点赞转发评论关注\n【开奖时间】4.15"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 23,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T00:05:29.000Z",
+        "description": "小璟/6P97｜08｜双性恋｜我割我o我抽烟喝酒 LGBTQ+友好 \n喜欢体验新鲜事物 当pyq发\n查看主页喜欢你就我就fo你 乖宝宝们请和我互fo^o^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%92%9F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F0.o",
+                "start": 0,
+                "url": "https://t.co/KSf6miGkl9"
+              }
+            ]
+          }
+        },
+        "id": "1680367973884735488",
+        "name": "璟璟璟璟璟璟0.o",
+        "pinned_tweet_id": "2040823390152651093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043407189533237248/1sRY0hb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 142,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 558
+        },
+        "url": "https://t.co/KSf6miGkl9",
+        "username": "imgyeong8077",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T05:34:54.000Z",
+        "description": "我活不长了",
+        "id": "1716689663443005440",
+        "name": "冬樹age",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037235493235286017/y6T_YAue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 126,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 213
+        },
+        "username": "DongS49455",
+        "verified": false
+      }
+    ]
+  }
+}

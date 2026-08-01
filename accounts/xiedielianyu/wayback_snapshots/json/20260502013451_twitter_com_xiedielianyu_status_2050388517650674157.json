@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2050382336248942777",
+    "created_at": "2026-05-02T01:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T02:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050388517650674157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "AuroraLight_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050388517650674157",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050382336248942777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AuroraLight_01 😭宝宝不要什么都好奇试一试啊，万一不觉得不舒服就难戒了啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2050382336248942777",
+        "created_at": "2026-05-02T01:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050388517650674157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "AuroraLight_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050388517650674157",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050382336248942777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AuroraLight_01 😭宝宝不要什么都好奇试一试啊，万一不觉得不舒服就难戒了啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2050382336248942777",
+        "created_at": "2026-05-02T01:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050382336248942777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AuroraLight_01…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/AuroraLight_01/status/2050209337386373373",
+              "start": 62,
+              "url": "https://t.co/qzVSYeElnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050382336248942777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050209337386373373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "划了一小下，划痕不大，有点疼，以后不划了😖。可能对我这种心理正常的人体会不到自🔪的快乐吧。😭\n(怕账号封禁，所以不发图片) https://t.co/qzVSYeElnI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2047384201134276667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 66,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 703
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？推龄最小的? \n无证小药娘🍥2026.4.7 MTF-从小想做个女孩子-未炸柜 深柜\n喜欢折腾电脑和会一点编程-分享Hrt日常\n不自残🔪 不Od💊 心理健康 在湖北潜江\n关注芸光谢谢喵~（目标600fo QWQ）\n\n“我看在眼里，我爱不释手，我保持前进，我志在必得”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/auroralight_01",
+                "end": 23,
+                "expanded_url": "http://ngl.link/auroralight_01",
+                "start": 0,
+                "url": "https://t.co/mYEIISyh1o"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "t.me/Coxe_Pica",
+        "name": "芸光酱𝗔𝘂𝗿𝗼𝗿𝗮𝗟𝗶𝗴𝗵𝘁 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2047830567673057755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 32,
+          "like_count": 1206,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/mYEIISyh1o",
+        "username": "AuroraLight_01",
+        "verified": true
+      }
+    ]
+  }
+}

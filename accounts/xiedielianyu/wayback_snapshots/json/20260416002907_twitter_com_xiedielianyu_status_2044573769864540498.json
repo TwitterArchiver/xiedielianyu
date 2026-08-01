@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2044103107219792107",
+    "created_at": "2026-04-16T00:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T01:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044573769864540498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026323053349920768",
+          "start": 0,
+          "username": "sakkiko423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044573769864540498",
+    "in_reply_to_user_id": "2026323053349920768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044566444386750842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakkiko423 抱抱你，如果累不妨停下一会，总有人为你驻足倾听，加油，我相信你一定可以撑过去，如果撑不下去也不要紧，我一直都在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2044103107219792107",
+        "created_at": "2026-04-16T00:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T01:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044573769864540498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026323053349920768",
+              "start": 0,
+              "username": "sakkiko423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044573769864540498",
+        "in_reply_to_user_id": "2026323053349920768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044566444386750842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakkiko423 抱抱你，如果累不妨停下一会，总有人为你驻足倾听，加油，我相信你一定可以撑过去，如果撑不下去也不要紧，我一直都在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026323053349920768",
+        "conversation_id": "2044103107219792107",
+        "created_at": "2026-04-16T00:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044566444386750842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044566444386750842",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044103107219792107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu 我的喉咙发炎了好痛啊好难受😣这两天又是满课感觉有一堆事情要做，人际社交又处理不好，唉好累啊头好晕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 32,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T15:48:36.000Z",
+        "description": "成分构成是 一份不存在的解药 一条看不清的路 一份迟到的爱",
+        "id": "2026323053349920768",
+        "name": "托遗响于悲风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026325808118411264/dHIM7hqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 1550,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 61
+        },
+        "username": "sakkiko423",
+        "verified": false
+      }
+    ]
+  }
+}

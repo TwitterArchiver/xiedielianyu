@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2058375482325008841",
+    "created_at": "2026-05-24T03:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T04:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058387514398761235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "UnkXyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058387514398761235",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058375482325008841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkXyn 我原本是来看男娘和美腿的😑目的明确这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2058375482325008841",
+        "created_at": "2026-05-24T03:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058387514398761235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "UnkXyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058387514398761235",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058375482325008841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkXyn 我原本是来看男娘和美腿的😑目的明确这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970857021588262912",
+        "conversation_id": "2058375482325008841",
+        "created_at": "2026-05-24T02:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058375482325008841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058375482325008841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "原本我来推特是来看4i的😨，直到去年11月，我接触到了跨性别🫪，于是命运的齿轮开始转动......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2047384201134276667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 61,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 711
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|生产日期:11.13.2011|161cm52kg|Oder💊|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～|二代目@XynUnk|https://t.co/gZ6bWdhM1A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 113,
+                "username": "XynUnk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/UnkXyn",
+                "end": 144,
+                "expanded_url": "http://t.me/UnkXyn",
+                "start": 121,
+                "url": "https://t.co/gZ6bWdhM1A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unksleep",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unksleep",
+                "start": 0,
+                "url": "https://t.co/ghYDrXHyAC"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "name": "✟𝑼𝒏𝒌✟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051684783588315136/Nkhjk1Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2591,
+          "following_count": 1473,
+          "like_count": 17599,
+          "listed_count": 4,
+          "media_count": 495,
+          "tweet_count": 2756
+        },
+        "url": "https://t.co/ghYDrXHyAC",
+        "username": "UnkXyn",
+        "verified": true
+      }
+    ]
+  }
+}

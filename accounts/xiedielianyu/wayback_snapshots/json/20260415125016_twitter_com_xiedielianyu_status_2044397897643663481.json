@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2044332190444499223",
+    "created_at": "2026-04-15T12:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T13:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044397897643663481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634191700712390657",
+          "start": 0,
+          "username": "xiaozhongT_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044397897643663481",
+    "in_reply_to_user_id": "1634191700712390657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044332190444499223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhongT_T 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31207,
+        "height": 1280,
+        "media_key": "7_2044331976144887808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044331976144887808/pu/img/N8o78xbofrph52sB.jpg",
+        "public_metrics": {
+          "view_count": 95
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044331976144887808/pu/vid/avc1/320x568/X93nupxvVwmm-_X6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044331976144887808/pu/vid/avc1/480x852/IeIlz1X3xP1Ft-SO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044331976144887808/pu/vid/avc1/720x1280/wodRiavo9ZjAut0V.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044331976144887808/pu/pl/ztSC8c8lAhMiCJ9A.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2044332190444499223",
+        "created_at": "2026-04-15T12:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044397897643663481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044397897643663481",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044332190444499223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044331976144887808"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2044332190444499223",
+        "created_at": "2026-04-15T08:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044332190444499223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6GqtGh0utQ",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2044332190444499223/video/1",
+              "media_key": "7_2044331976144887808",
+              "start": 11,
+              "url": "https://t.co/6GqtGh0utQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044332190444499223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "缝针痛痛痛痛痛痛痛痛 https://t.co/6GqtGh0utQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "location": "天堂",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2044103107219792107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 36,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 344,
+          "like_count": 2056,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 986
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

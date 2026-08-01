@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2040235031835320414",
+    "created_at": "2026-04-04T01:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T02:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040235031835320414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1766084836572172288",
+          "start": 3,
+          "username": "Smertkakput12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040235031835320414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040068969449845026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Smertkakput12: 1kfo抽奖终于来了呀其实已经1k2\n是很穷的抽奖😭\n一等奖抽一人pr四盒（折现66）\n二等奖抽二人红贝印10把（折现30）\n三等奖抽三人奶茶（折现15）\n参与奖五人5.2\n50转100赞开 不到的话四天后开\n关注转评赞参与\n谢谢大家喜欢我…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2040068951397588992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_H5w1bYAAiArh.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2040235031835320414",
+        "created_at": "2026-04-04T01:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040235031835320414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1766084836572172288",
+              "start": 3,
+              "username": "Smertkakput12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040235031835320414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040068969449845026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Smertkakput12: 1kfo抽奖终于来了呀其实已经1k2\n是很穷的抽奖😭\n一等奖抽一人pr四盒（折现66）\n二等奖抽二人红贝印10把（折现30）\n三等奖抽三人奶茶（折现15）\n参与奖五人5.2\n50转100赞开 不到的话四天后开\n关注转评赞参与\n谢谢大家喜欢我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040068951397588992"
+          ]
+        },
+        "author_id": "1766084836572172288",
+        "conversation_id": "2040068969449845026",
+        "created_at": "2026-04-03T14:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040068969449845026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rqUHd664z5",
+              "end": 146,
+              "expanded_url": "https://x.com/Smertkakput12/status/2040068969449845026/photo/1",
+              "media_key": "3_2040068951397588992",
+              "start": 123,
+              "url": "https://t.co/rqUHd664z5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040068969449845026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1790,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "1kfo抽奖终于来了呀其实已经1k2\n是很穷的抽奖😭\n一等奖抽一人pr四盒（折现66）\n二等奖抽二人红贝印10把（折现30）\n三等奖抽三人奶茶（折现15）\n参与奖五人5.2\n50转100赞开 不到的话四天后开\n关注转评赞参与\n谢谢大家喜欢我呀！ https://t.co/rqUHd664z5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "无",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034654128308465664/unp1CzjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T12:53:44.000Z",
+        "description": "女｜mha｜18歲家里蹲\n女同有对象\n拒绝男的/鉴证",
+        "id": "1766084836572172288",
+        "name": "林鴿TTttt",
+        "pinned_tweet_id": "2027639613045739521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029163126839754752/qrVxto-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 693,
+          "like_count": 1444,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1179
+        },
+        "username": "Smertkakput12",
+        "verified": false
+      }
+    ]
+  }
+}
