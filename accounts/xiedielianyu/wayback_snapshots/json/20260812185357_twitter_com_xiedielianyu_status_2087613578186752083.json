@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087613571270422528"
+      ]
+    },
+    "author_id": "2016171535179120642",
+    "conversation_id": "2087613578186752083",
+    "created_at": "2026-08-12T18:53:57.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T19:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087613578186752083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gf5k93jmuk",
+          "end": 76,
+          "expanded_url": "https://x.com/xiedielianyu/status/2087613578186752083/photo/1",
+          "media_key": "3_2087613571270422528",
+          "start": 53,
+          "url": "https://t.co/Gf5k93jmuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087613578186752083",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087613571270422528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很难想象这不是段子，我现在的父母一个婚内出轨，一个知三当三（知道我亲生父母还没离婚就上床了）...... https://t.co/Gf5k93jmuk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2907,
+        "media_key": "3_2087613571270422528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPixe3_bsAAN9bO.jpg",
+        "width": 1521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087613571270422528"
+          ]
+        },
+        "author_id": "2016171535179120642",
+        "conversation_id": "2087613578186752083",
+        "created_at": "2026-08-12T18:53:57.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087613578186752083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gf5k93jmuk",
+              "end": 76,
+              "expanded_url": "https://x.com/xiedielianyu/status/2087613578186752083/photo/1",
+              "media_key": "3_2087613571270422528",
+              "start": 53,
+              "url": "https://t.co/Gf5k93jmuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087613578186752083",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087613571270422528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很难想象这不是段子，我现在的父母一个婚内出轨，一个知三当三（知道我亲生父母还没离婚就上床了）...... https://t.co/Gf5k93jmuk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2087613578186752083",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 61,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
