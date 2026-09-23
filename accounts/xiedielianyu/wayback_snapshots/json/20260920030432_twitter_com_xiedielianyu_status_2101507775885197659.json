@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2100946013704061155",
+    "created_at": "2026-09-20T03:04:32.000Z",
+    "display_text_range": [
+      15,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T04:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101507775885197659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2056079458768236544",
+          "start": 0,
+          "username": "hao_xiao62716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101507775885197659",
+    "in_reply_to_user_id": "2056079458768236544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101364979912085523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hao_xiao62716 zdjd，购买页面显示“去复诊开药”的不是要处方的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2100946013704061155",
+        "created_at": "2026-09-20T03:04:32.000Z",
+        "display_text_range": [
+          15,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101507775885197659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2056079458768236544",
+              "start": 0,
+              "username": "hao_xiao62716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101507775885197659",
+        "in_reply_to_user_id": "2056079458768236544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101364979912085523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hao_xiao62716 zdjd，购买页面显示“去复诊开药”的不是要处方的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056079458768236544",
+        "conversation_id": "2100946013704061155",
+        "created_at": "2026-09-19T17:37:07.000Z",
+        "display_text_range": [
+          31,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101364979912085523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            },
+            {
+              "end": 30,
+              "id": "2089408201209102336",
+              "start": 14,
+              "username": "zhuzhuzhuzhusiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101364979912085523",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101323896033259875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu @zhuzhuzhuzhusiz 这个不要处方啊我记得"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2101507775885197659",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 64,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 782
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T18:28:48.000Z",
+        "description": "",
+        "id": "2056079458768236544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101365292190634231",
+        "name": "小好",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056079458768236544/1780643464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069875224397451265/kwOic7vW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 38,
+          "like_count": 3358,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "hao_xiao62716",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

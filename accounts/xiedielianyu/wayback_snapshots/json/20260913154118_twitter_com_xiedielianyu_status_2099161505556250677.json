@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2099031616001831062",
+    "created_at": "2026-09-13T15:41:18.000Z",
+    "display_text_range": [
+      13,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T16:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099161505556250677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "616537873",
+          "start": 0,
+          "username": "aaarjkkmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099161505556250677",
+    "in_reply_to_user_id": "616537873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099031616001831062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkkmiao 直接用牙磕一半（（（\n当然我还是推荐买个切药器的，毕竟经常可以用到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2099031596053725184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFCHY8agAACm6E.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2099031616001831062",
+        "created_at": "2026-09-13T15:41:18.000Z",
+        "display_text_range": [
+          13,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T16:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099161505556250677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "616537873",
+              "start": 0,
+              "username": "aaarjkkmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099161505556250677",
+        "in_reply_to_user_id": "616537873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099031616001831062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkkmiao 直接用牙磕一半（（（\n当然我还是推荐买个切药器的，毕竟经常可以用到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099031596053725184"
+          ]
+        },
+        "author_id": "616537873",
+        "conversation_id": "2099031616001831062",
+        "created_at": "2026-09-13T07:05:10.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099031616001831062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/06bydTTlh5",
+              "end": 44,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2099031616001831062/photo/1",
+              "media_key": "3_2099031596053725184",
+              "start": 21,
+              "url": "https://t.co/06bydTTlh5"
+            },
+            {
+              "display_url": "x.com/aaarjkkmiao/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/aaarjkkmiao/status/2099030778726522914",
+              "start": 45,
+              "url": "https://t.co/0TkpRhAUS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099031616001831062",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099031596053725184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1032,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099030778726522914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拼尽全力完全无法徒手掰开😭你们的力气好大 https://t.co/06bydTTlh5 https://t.co/0TkpRhAUS8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2099161505556250677",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 58,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "大号@aaarjkk 1478Fo卡进后室寻回互Fo🩷\n活在幻想中☁️希望咱们每天都能开开心心的☺️☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人🍥8/31/2026小资历🎂10/14/2010天残党\n🏳️小号@a0brjkk(负面?🤔)\n🤍@a0brjkkmiao🤭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "aaarjkk"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "a0brjkk"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "a0brjkkmiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/lIxlEX4uF5"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": true,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念 ",
+        "most_recent_tweet_id": "2099139395475607943",
+        "name": "是貓貓喵🍥",
+        "pinned_tweet_id": "2098344560170807523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1786621805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087845591523168256/D8VdVCaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 577,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 677
+        },
+        "url": "https://t.co/lIxlEX4uF5",
+        "username": "aaarjkkmiao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

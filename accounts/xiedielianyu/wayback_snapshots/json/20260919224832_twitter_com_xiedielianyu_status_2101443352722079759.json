@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2101160517020909823",
+    "created_at": "2026-09-19T22:48:32.000Z",
+    "display_text_range": [
+      14,
+      156
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T23:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101443352722079759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679381806913560578",
+          "start": 0,
+          "username": "kurazawanaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101443352722079759",
+    "in_reply_to_user_id": "1679381806913560578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101160517020909823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurazawanaki 摸摸\n对与错没有绝对的定义，有个词叫喜恶同因\n有些人喜欢你的活泼，有些人却觉得这是聒噪\n他们认为你错了，不一定代表你真的错了，只是他们想让你改变自己\n同样，当你自己认为自己错了，也不一定真的错了，你只是困在了一个死循环里，只有有人有物把你带出去才会好转\n不论怎样，我相信你永远是好宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2101160517020909823",
+        "created_at": "2026-09-19T22:48:32.000Z",
+        "display_text_range": [
+          14,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T23:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101443352722079759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679381806913560578",
+              "start": 0,
+              "username": "kurazawanaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101443352722079759",
+        "in_reply_to_user_id": "1679381806913560578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101160517020909823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurazawanaki 摸摸\n对与错没有绝对的定义，有个词叫喜恶同因\n有些人喜欢你的活泼，有些人却觉得这是聒噪\n他们认为你错了，不一定代表你真的错了，只是他们想让你改变自己\n同样，当你自己认为自己错了，也不一定真的错了，你只是困在了一个死循环里，只有有人有物把你带出去才会好转\n不论怎样，我相信你永远是好宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679381806913560578",
+        "conversation_id": "2101160517020909823",
+        "created_at": "2026-09-19T04:04:39.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101160517020909823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101160517020909823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1857,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受…嗓子里全是哭出来的血…好难受…我到底该怎么办…做什么都是错的…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2101443352722079759",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 64,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "某三一小号\n最爱的母艦@gdioiui\n下水日08.08.08\n只是一个普通的女孩子🏳️‍⚧️\n（病娇地雷系重女）\n卧室贝斯手_笨蛋医学生_长笛\n喜欢音乐 药理 百合\nhrt25.05.05 同类私信互fo\nba wows",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "gdioiui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurazawanaki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurazawanaki1",
+                "start": 0,
+                "url": "https://t.co/XCTBiBpQ5n"
+              }
+            ]
+          }
+        },
+        "id": "1679381806913560578",
+        "is_identity_verified": false,
+        "location": "三途川",
+        "most_recent_tweet_id": "2101323605623861534",
+        "name": "Anemoly🍥🎐⚢",
+        "pinned_tweet_id": "2056329506856796287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679381806913560578/1776322647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086056492122484736/Hq14RGNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1524,
+          "like_count": 22268,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/XCTBiBpQ5n",
+        "username": "kurazawanaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

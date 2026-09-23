@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2100946013704061155",
+    "created_at": "2026-09-19T14:53:52.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T15:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101323896033259875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2089408201209102336",
+          "start": 0,
+          "username": "zhuzhuzhuzhusiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101323896033259875",
+    "in_reply_to_user_id": "2089408201209102336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100946013704061155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuzhuzhuzhusiz 有没有处方啊😭（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2100946013704061155",
+        "created_at": "2026-09-19T14:53:52.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101323896033259875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2089408201209102336",
+              "start": 0,
+              "username": "zhuzhuzhuzhusiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101323896033259875",
+        "in_reply_to_user_id": "2089408201209102336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100946013704061155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuzhuzhuzhusiz 有没有处方啊😭（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089408201209102336",
+        "conversation_id": "2100946013704061155",
+        "created_at": "2026-09-18T13:52:18.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100946013704061155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100946013704061155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5427,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你指的报复性消费是在拼多多买四盒五块钱的金刚烷胺对吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2101323896033259875",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 64,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T17:45:53.000Z",
+        "description": "炸玉的6.0\n含od自伤内容\n？！@wbuzdwsmdoubzd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "wbuzdwsmdoubzd"
+              }
+            ]
+          }
+        },
+        "id": "2089408201209102336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101322271558418484",
+        "name": "炸炸的玉6.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089408201209102336/1788779799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089408584824291328/xsqL6M6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 264,
+          "like_count": 978,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 481
+        },
+        "url": "",
+        "username": "zhuzhuzhuzhusiz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

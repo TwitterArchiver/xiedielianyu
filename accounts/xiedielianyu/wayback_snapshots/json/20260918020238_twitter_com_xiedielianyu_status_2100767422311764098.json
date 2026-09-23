@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2100722136650539219",
+    "created_at": "2026-09-18T02:02:38.000Z",
+    "display_text_range": [
+      30,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T03:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100767422311764098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910937639269888000",
+          "start": 0,
+          "username": "NJMPUydvf294498"
+        },
+        {
+          "end": 29,
+          "id": "616537873",
+          "start": 17,
+          "username": "aaarjkkmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100767422311764098",
+    "in_reply_to_user_id": "1910937639269888000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100766733078524331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NJMPUydvf294498 @aaarjkkmiao 我每两天25，也和每天12.5差不多了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2100722136650539219",
+        "created_at": "2026-09-18T02:02:38.000Z",
+        "display_text_range": [
+          30,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100767422311764098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910937639269888000",
+              "start": 0,
+              "username": "NJMPUydvf294498"
+            },
+            {
+              "end": 29,
+              "id": "616537873",
+              "start": 17,
+              "username": "aaarjkkmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100767422311764098",
+        "in_reply_to_user_id": "1910937639269888000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100766733078524331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NJMPUydvf294498 @aaarjkkmiao 我每两天25，也和每天12.5差不多了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910937639269888000",
+        "conversation_id": "2100722136650539219",
+        "created_at": "2026-09-18T01:59:54.000Z",
+        "display_text_range": [
+          13,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100766733078524331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "616537873",
+              "start": 0,
+              "username": "aaarjkkmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100766733078524331",
+        "in_reply_to_user_id": "616537873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100722136650539219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkkmiao 啊？宝4天每天12.5？？？我才两天12.5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2100767422311764098",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 62,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-12T06:07:14.000Z",
+        "description": "成为女生：2026.8.24｜168cm 63kg｜BMI22 体脂15.8%｜指派男性 认同女性｜GAHT：2026.9.8｜缺安全感｜🎂阴历04.9.17／证05.6.6｜称呼随意",
+        "id": "1910937639269888000",
+        "is_identity_verified": false,
+        "location": "楠娘岛",
+        "most_recent_tweet_id": "2100766733078524331",
+        "name": "要期待未来啊🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2100224300091633775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910937639269888000/1785835057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087189162810355712/NWJ9xOc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 884,
+          "like_count": 1396,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 1223
+        },
+        "url": "",
+        "username": "NJMPUydvf294498",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "大号@aaarjkk 1478Fo寻回互Fo🩷\n活在幻想中☁️希望咱们每天都能开开心心的☺️☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人🍥8/31/2026小资历🎂10/14/2010天残党\n🏳️小号@a0brjkk(负面?🤔)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "aaarjkk"
+              },
+              {
+                "end": 123,
+                "start": 115,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/lIxlEX4uF5"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": true,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念 ",
+        "most_recent_tweet_id": "2100742108173029874",
+        "name": "是貓貓喵",
+        "pinned_tweet_id": "2098344560170807523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1786621805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087845591523168256/D8VdVCaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 594,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 757
+        },
+        "url": "https://t.co/lIxlEX4uF5",
+        "username": "aaarjkkmiao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2101556618160677156",
+    "created_at": "2026-09-20T09:25:14.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T10:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101603579958043058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024210421373444096",
+          "start": 0,
+          "username": "blingbling712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101603579958043058",
+    "in_reply_to_user_id": "2024210421373444096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101556618160677156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blingbling712 好高级的亚子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2101556613299515392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSo6mvMXMAAmhIZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2101556618160677156",
+        "created_at": "2026-09-20T09:25:14.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T10:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101603579958043058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101603579958043058",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101556618160677156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 好高级的亚子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101556613299515392"
+          ]
+        },
+        "author_id": "2024210421373444096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101556618160677156",
+        "created_at": "2026-09-20T06:18:37.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T07:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101556618160677156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wr7QN4Zs00",
+              "end": 32,
+              "expanded_url": "https://x.com/blingbling712/status/2101556618160677156/photo/1",
+              "media_key": "3_2101556613299515392",
+              "start": 9,
+              "url": "https://t.co/wr7QN4Zs00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101556618160677156",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101556613299515392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老板送的月饼（） https://t.co/wr7QN4Zs00"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2101603579958043058",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 65,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 786
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜sub｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn\n小17！@danshuishuimu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "danshuishuimu"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2101556618160677156",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 561,
+          "like_count": 17258,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 2155
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

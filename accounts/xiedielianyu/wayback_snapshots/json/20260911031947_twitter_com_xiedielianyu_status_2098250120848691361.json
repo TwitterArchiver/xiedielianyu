@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098250097675104256",
+        "3_2098250113386954752"
+      ]
+    },
+    "author_id": "2016171535179120642",
+    "conversation_id": "2098250120848691361",
+    "created_at": "2026-09-11T03:19:47.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T04:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098250120848691361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "1797893909768466432",
+          "start": 21,
+          "username": "AksharJethwa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GIL6jEtCHt",
+          "end": 58,
+          "expanded_url": "https://x.com/xiedielianyu/status/2098250120848691361/photo/1",
+          "media_key": "3_2098250097675104256",
+          "start": 35,
+          "url": "https://t.co/GIL6jEtCHt"
+        },
+        {
+          "display_url": "pic.x.com/GIL6jEtCHt",
+          "end": 58,
+          "expanded_url": "https://x.com/xiedielianyu/status/2098250120848691361/photo/1",
+          "media_key": "3_2098250113386954752",
+          "start": 35,
+          "url": "https://t.co/GIL6jEtCHt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098250120848691361",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098250097675104256"
+      },
+      {
+        "media_key": "3_2098250113386954752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "翻车，然后这段聊天记录超可爱有没有人觉得\n@AksharJethwa https://t.co/GIL6jEtCHt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3264,
+        "media_key": "3_2098250097675104256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR57WMnacAAwAdd.jpg",
+        "width": 2448
+      },
+      {
+        "height": 504,
+        "media_key": "3_2098250113386954752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR57XHJaQAAivQg.jpg",
+        "width": 562
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098250097675104256",
+            "3_2098250113386954752"
+          ]
+        },
+        "author_id": "2016171535179120642",
+        "conversation_id": "2098250120848691361",
+        "created_at": "2026-09-11T03:19:47.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098250120848691361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1797893909768466432",
+              "start": 21,
+              "username": "AksharJethwa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GIL6jEtCHt",
+              "end": 58,
+              "expanded_url": "https://x.com/xiedielianyu/status/2098250120848691361/photo/1",
+              "media_key": "3_2098250097675104256",
+              "start": 35,
+              "url": "https://t.co/GIL6jEtCHt"
+            },
+            {
+              "display_url": "pic.x.com/GIL6jEtCHt",
+              "end": 58,
+              "expanded_url": "https://x.com/xiedielianyu/status/2098250120848691361/photo/1",
+              "media_key": "3_2098250113386954752",
+              "start": 35,
+              "url": "https://t.co/GIL6jEtCHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098250120848691361",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098250097675104256"
+          },
+          {
+            "media_key": "3_2098250113386954752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻车，然后这段聊天记录超可爱有没有人觉得\n@AksharJethwa https://t.co/GIL6jEtCHt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2098250120848691361",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 54,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-04T07:31:40.000Z",
+        "description": "Hey 这里猫耳朵 ≽ ⩊ ≼｜原号@pattifly｜几年从未换过头像和名字，长期稳定。\nTG消息都会回 👉：https://t.co/93BhiGSuKq\n实在没有tg的话、可私信2号推👉：@Rrrrrrr1234550",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "pattifly"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "Rrrrrrr1234550"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/maoerduo91837",
+                "end": 79,
+                "expanded_url": "https://t.me/maoerduo91837",
+                "start": 56,
+                "url": "https://t.co/93BhiGSuKq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4IOQl-oUUqY1M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4IOQl-oUUqY1MWY1",
+                "start": 0,
+                "url": "https://t.co/BQqx8qBxqA"
+              }
+            ]
+          }
+        },
+        "id": "1797893909768466432",
+        "is_identity_verified": false,
+        "location": "TG聊天群👉",
+        "most_recent_tweet_id": "2098223278871793916",
+        "name": "猫耳朵糖商🍥🏳️‍⚧️1",
+        "pinned_tweet_id": "2097936696172277866",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797893909768466432/1769938854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017895872345067520/RxcmKcDb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 1217,
+          "like_count": 657,
+          "listed_count": 5,
+          "media_count": 16,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/BQqx8qBxqA",
+        "username": "AksharJethwa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

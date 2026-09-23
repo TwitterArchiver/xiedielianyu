@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2098400049822888247",
+    "created_at": "2026-09-12T14:47:08.000Z",
+    "display_text_range": [
+      22,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098785485854544215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1629528522552410115",
+          "start": 0,
+          "username": "ReaXuanya"
+        },
+        {
+          "end": 21,
+          "id": "1271512602145730560",
+          "start": 11,
+          "username": "Akino_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098785485854544215",
+    "in_reply_to_user_id": "1629528522552410115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098462754533220674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReaXuanya @Akino_QwQ 我用起来是不会掉，只要洗澡的时候不去揉搓贴的地方，用毛巾擦干身体的时候贴片位置改成吸干就可以了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2098400049822888247",
+        "created_at": "2026-09-12T14:47:08.000Z",
+        "display_text_range": [
+          22,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098785485854544215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1629528522552410115",
+              "start": 0,
+              "username": "ReaXuanya"
+            },
+            {
+              "end": 21,
+              "id": "1271512602145730560",
+              "start": 11,
+              "username": "Akino_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098785485854544215",
+        "in_reply_to_user_id": "1629528522552410115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098462754533220674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReaXuanya @Akino_QwQ 我用起来是不会掉，只要洗澡的时候不去揉搓贴的地方，用毛巾擦干身体的时候贴片位置改成吸干就可以了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629528522552410115",
+        "conversation_id": "2098400049822888247",
+        "created_at": "2026-09-11T17:24:42.000Z",
+        "display_text_range": [
+          11,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T18:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098462754533220674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1271512602145730560",
+              "start": 0,
+              "username": "Akino_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098462754533220674",
+        "in_reply_to_user_id": "1271512602145730560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1741,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098400049822888247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akino_QwQ 洗澡会掉吗？我喜欢一天洗一次，还在犹豫要不要买这个"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2098785485854544215",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 55,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-25T17:07:53.000Z",
+        "description": "🎶ENFP | 🏳️‍⚧️是MTF! | 😉是女孩子 | 🎮做游戏的 | 💻打CTF的 | 🎨画像素画的 | 😺精通和猫交朋友(真) | 大二 | 剪视频的 | 分享自我观察的念念碎 | Ready For HRT!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sukisukisuki.com",
+                "end": 23,
+                "expanded_url": "http://sukisukisuki.com",
+                "start": 0,
+                "url": "https://t.co/FyGuQZFjm5"
+              }
+            ]
+          }
+        },
+        "id": "1629528522552410115",
+        "is_identity_verified": false,
+        "location": "错误的身体",
+        "most_recent_tweet_id": "2098738681343250812",
+        "name": "Rea 泫雅",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629528522552410115/1787338231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838378088864059392/dfSrbWq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 171,
+          "like_count": 924,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/FyGuQZFjm5",
+        "username": "ReaXuanya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵！🚪（？）/持证含糖友跨顺猫/想变可爱/收破烂的/Maimai/摄影器材/想拍小姐姐/软件工程/一点网络工程/修电脑/二轮车/魔改硬件/SSD/医疗电子/拆机/LLer/火车迷/mc原版/化学已/ADHD/想od/想要5HT2A激动剂/不键政!/对象(不混圈)/主人@HoshinoMako0131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 142,
+                "username": "HoshinoMako0131"
+              }
+            ]
+          }
+        },
+        "id": "1271512602145730560",
+        "is_identity_verified": false,
+        "location": "华立科技展厅",
+        "most_recent_tweet_id": "2098766429902569529",
+        "name": "一定不是银喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271512602145730560/1674706633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011153409378754560/HMEgRHqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4285,
+          "following_count": 952,
+          "like_count": 19086,
+          "listed_count": 14,
+          "media_count": 696,
+          "tweet_count": 4096
+        },
+        "url": "",
+        "username": "Akino_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

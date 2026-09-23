@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2098781854715535653",
+    "created_at": "2026-09-12T14:32:42.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098781854715535653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2031270533359349761",
+          "start": 3,
+          "username": "lovemyselfhaili"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098781854715535653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098370332239581275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovemyselfhaili: 抱歉大家迟了这么久才做了2000fo福利哇🥺因为实在想不到送什么😇\n以下每等奖品各一位🥰\n四等奖：你的胆子真的是肥嘟嘟摆件一个\n三等奖：补佳乐一板/300mg加巴喷丁3板\n二等奖：mtf周边小挂件/75mg普瑞巴林胶囊4板…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2098781854715535653",
+        "created_at": "2026-09-12T14:32:42.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098781854715535653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2031270533359349761",
+              "start": 3,
+              "username": "lovemyselfhaili"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098781854715535653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098370332239581275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovemyselfhaili: 抱歉大家迟了这么久才做了2000fo福利哇🥺因为实在想不到送什么😇\n以下每等奖品各一位🥰\n四等奖：你的胆子真的是肥嘟嘟摆件一个\n三等奖：补佳乐一板/300mg加巴喷丁3板\n二等奖：mtf周边小挂件/75mg普瑞巴林胶囊4板…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2098370332239581275",
+        "created_at": "2026-09-11T11:17:27.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098370332239581275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098370332239581275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "抱歉大家迟了这么久才做了2000fo福利哇🥺因为实在想不到送什么😇\n以下每等奖品各一位🥰\n四等奖：你的胆子真的是肥嘟嘟摆件一个\n三等奖：补佳乐一板/300mg加巴喷丁3板\n二等奖：mtf周边小挂件/75mg普瑞巴林胶囊4板\n一等奖🥰：十一酸睾酮注射液一盒（兽用！！！）/奶茶饮料一杯随意价格均可（补药太贵森森没钱乐🥹）\n以上所有礼物均带有森森亲笔签名卡一张（有人知道明信片线下哪有卖的吗😭）\n另外在此呼吁大家少o，其实森森打心底是不想送药物的如果不是为了流量🥹\n最后关注点赞转帖评论即可参与🥳截止时间9月14号晚上10点🥰抽到的宝宝要三天之内联系我哇爱你们🥰"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1358,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉大家迟了这么久才做了2000fo福利哇🥺因为实在想不到送什么😇\n以下每等奖品各一位🥰\n四等奖：你的胆子真的是肥嘟嘟摆件一个\n三等奖：补佳乐一板/300mg加巴喷丁3板\n二等奖：mtf周边小挂件/75mg普瑞巴林胶囊4板"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2098781854715535653",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 55,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "（淡圈中）一个什么都不擅长的废物喵｜喜欢一切可爱事物｜entp-t ｜心归所至：@lfgy74025｜小宝宝：@YuChenawa @MZiyu81757｜mtx🏳️‍⚧️｜AGP｜生产日期：2008｜小证偷吃｜hrt3.29｜欢迎互fo喵｜常驻南京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "lfgy74025"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MZiyu81757"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "is_identity_verified": false,
+        "location": "你家门口",
+        "most_recent_tweet_id": "2098653228313514215",
+        "name": "senzhiwu",
+        "pinned_tweet_id": "2086291480478712245",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031270533359349761/1787898878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088941031123505152/lRU5eFsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163,
+          "following_count": 441,
+          "like_count": 4102,
+          "listed_count": 6,
+          "media_count": 179,
+          "tweet_count": 2954
+        },
+        "url": "",
+        "username": "lovemyselfhaili",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

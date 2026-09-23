@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2098707721344213175",
+    "created_at": "2026-09-12T15:28:52.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098795989348078036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2083431637027823616",
+          "start": 0,
+          "username": "yuexiaqingqiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098795989348078036",
+    "in_reply_to_user_id": "2083431637027823616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098707721344213175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuexiaqingqiu 可以穿背心喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2098707721344213175",
+        "created_at": "2026-09-12T15:28:52.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098795989348078036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2083431637027823616",
+              "start": 0,
+              "username": "yuexiaqingqiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098795989348078036",
+        "in_reply_to_user_id": "2083431637027823616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098707721344213175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuexiaqingqiu 可以穿背心喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083431637027823616",
+        "conversation_id": "2098707721344213175",
+        "created_at": "2026-09-12T09:38:07.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098707721344213175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098707721344213175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 543,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜，跑起来好难受啊，很明显胸有晃感，那我后面军训早操怎么办啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2098795989348078036",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 55,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T05:57:25.000Z",
+        "description": "2008.7.9|2026.6.3🍥|孤独抑郁之人\n咨询服务→@theqingqiuback\n🐧3866066283",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "theqingqiuback"
+              }
+            ]
+          }
+        },
+        "id": "2083431637027823616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098744092733894704",
+        "name": "𝓠𝓲𝓷𝓰𝓺𝓾月下知清秋🍥🏳️‍⚧️（黑化版）",
+        "pinned_tweet_id": "2093611787765829679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083431637027823616/1785587926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086095343209652224/BE5bgTny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 208,
+          "like_count": 1079,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 720
+        },
+        "url": "",
+        "username": "yuexiaqingqiu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

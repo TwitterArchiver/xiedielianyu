@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2099131808055263704",
+    "created_at": "2026-09-13T15:42:18.000Z",
+    "display_text_range": [
+      24,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T16:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099161756820275505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1803084154239901696",
+          "start": 0,
+          "username": "lznghun951441"
+        },
+        {
+          "end": 23,
+          "id": "2018248488773898240",
+          "start": 15,
+          "username": "Box3_ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099161756820275505",
+    "in_reply_to_user_id": "1803084154239901696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099141557681365022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lznghun951441 @Box3_ji 1.用女性身份证网购\n2.线下多跑几家小诊所可能会给你\n3.药商"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2099131808055263704",
+        "created_at": "2026-09-13T15:42:18.000Z",
+        "display_text_range": [
+          24,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T16:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099161756820275505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1803084154239901696",
+              "start": 0,
+              "username": "lznghun951441"
+            },
+            {
+              "end": 23,
+              "id": "2018248488773898240",
+              "start": 15,
+              "username": "Box3_ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099161756820275505",
+        "in_reply_to_user_id": "1803084154239901696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099141557681365022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lznghun951441 @Box3_ji 1.用女性身份证网购\n2.线下多跑几家小诊所可能会给你\n3.药商"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803084154239901696",
+        "conversation_id": "2099131808055263704",
+        "created_at": "2026-09-13T14:22:02.000Z",
+        "display_text_range": [
+          9,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099141557681365022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2018248488773898240",
+              "start": 0,
+              "username": "Box3_ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099141557681365022",
+        "in_reply_to_user_id": "2018248488773898240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099131808055263704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Box3_ji 都是怎么搞到的糖我记的这个不是处方药吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2099161756820275505",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 58,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-18T15:16:29.000Z",
+        "description": "没事当朋友圈发了，纯找乐子，闲了打战雷和cs，不会写了就写这么多了",
+        "id": "1803084154239901696",
+        "is_identity_verified": false,
+        "location": "宇宙，室女座超星系团，银河系，太阳系，地球，中华人民共和国",
+        "most_recent_tweet_id": "2099157915290747157",
+        "name": "麦子",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098130025463832576/1VOTU9fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 44,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "lznghun951441",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-02T09:02:14.000Z",
+        "description": "🩵泥豪_❛˓◞˂̵✧🩷社恐致歉🤍无证含糖🍥🩷双相🩵\n🩵生产日期2012.4.6🩷无政府主义者🤍亚文化🩷自残🩵",
+        "id": "2018248488773898240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099151304035848639",
+        "name": "Box🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2098679365189976462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018248488773898240/1787828428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092930234664574976/i9QCz-sY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 50,
+          "like_count": 80,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "Box3_ji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2099598768060711294",
+    "created_at": "2026-09-14T20:38:49.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T21:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099598768060711294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1486975640628723718",
+          "start": 3,
+          "username": "sh0p_ass1stant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099598768060711294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099190215218999354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sh0p_ass1stant: 100fo了该抽个奖了，但我是穷逼只能抽点小钱了😢\n一等奖52r x1；\n二等奖10rx2；\n三等奖5rx5；\n安慰奖3rx1；（只是想凑一个100r总奖金的整数）\n点赞转发评论参与好吧各位，都来玩都来玩😋\n过段时候有机会写一写互关ID…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2099598768060711294",
+        "created_at": "2026-09-14T20:38:49.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T21:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099598768060711294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1486975640628723718",
+              "start": 3,
+              "username": "sh0p_ass1stant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099598768060711294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099190215218999354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sh0p_ass1stant: 100fo了该抽个奖了，但我是穷逼只能抽点小钱了😢\n一等奖52r x1；\n二等奖10rx2；\n三等奖5rx5；\n安慰奖3rx1；（只是想凑一个100r总奖金的整数）\n点赞转发评论参与好吧各位，都来玩都来玩😋\n过段时候有机会写一写互关ID…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486975640628723718",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2099190215218999354",
+        "created_at": "2026-09-13T17:35:23.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T18:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099190215218999354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099190215218999354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2723,
+          "like_count": 65,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "100fo了该抽个奖了，但我是穷逼只能抽点小钱了😢\n一等奖52r x1；\n二等奖10rx2；\n三等奖5rx5；\n安慰奖3rx1；（只是想凑一个100r总奖金的整数）\n点赞转发评论参与好吧各位，都来玩都来玩😋\n过段时候有机会写一写互关ID\n周四grok开奖，会公布中奖信息并@中奖人，\n中奖的话最好用收款码，我不怎么用支付宝"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2099598768060711294",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 59,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-28T08:13:24.000Z",
+        "description": "希望和很多人成为朋友，欢迎互fo!😘分身@Sh0p_asslstant",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "Sh0p_asslstant"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keai87621",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keai87621",
+                "start": 0,
+                "url": "https://t.co/Ci4TMetGKe"
+              }
+            ]
+          }
+        },
+        "id": "1486975640628723718",
+        "is_identity_verified": false,
+        "location": "我的小棺材",
+        "most_recent_tweet_id": "2099540355133919393",
+        "name": "店员🍵",
+        "pinned_tweet_id": "2076999311133708755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1486975640628723718/1777708739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039660133039620096/uQy2fFRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 479,
+          "like_count": 11316,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 2335
+        },
+        "url": "https://t.co/Ci4TMetGKe",
+        "username": "sh0p_ass1stant",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

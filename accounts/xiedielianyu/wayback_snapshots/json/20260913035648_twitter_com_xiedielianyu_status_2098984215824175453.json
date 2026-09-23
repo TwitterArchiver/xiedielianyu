@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2098765415912820982",
+    "created_at": "2026-09-13T03:56:48.000Z",
+    "display_text_range": [
+      23,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T04:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098984215824175453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "616537873",
+          "start": 0,
+          "username": "aaarjkkmiao"
+        },
+        {
+          "end": 22,
+          "id": "1953488617151832064",
+          "start": 13,
+          "username": "Dxcksaus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098984215824175453",
+    "in_reply_to_user_id": "616537873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098980990677102757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkkmiao @Dxcksaus 我去我也10年的，也是前几天才开始hrt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2098765415912820982",
+        "created_at": "2026-09-13T03:56:48.000Z",
+        "display_text_range": [
+          23,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T04:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098984215824175453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "616537873",
+              "start": 0,
+              "username": "aaarjkkmiao"
+            },
+            {
+              "end": 22,
+              "id": "1953488617151832064",
+              "start": 13,
+              "username": "Dxcksaus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098984215824175453",
+        "in_reply_to_user_id": "616537873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098980990677102757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkkmiao @Dxcksaus 我去我也10年的，也是前几天才开始hrt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "616537873",
+        "conversation_id": "2098765415912820982",
+        "created_at": "2026-09-13T03:44:00.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T04:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098980990677102757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953488617151832064",
+              "start": 0,
+              "username": "Dxcksaus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/aaarjkkmiao/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/aaarjkkmiao/status/2094367731999215759",
+              "start": 30,
+              "url": "https://t.co/S3yBv9PRsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098980990677102757",
+        "in_reply_to_user_id": "1953488617151832064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094367731999215759",
+            "type": "quoted"
+          },
+          {
+            "id": "2098765415912820982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dxcksaus 加油口牙\n和我含🍬时间和年龄都差不多呢 https://t.co/S3yBv9PRsZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2098984215824175453",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 55,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "大号@aaarjkk 1478Fo卡进后室寻回互Fo🩷\n活在幻想中☁️希望咱们每天都能开开心心的☺️☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人🍥8/31/2026小资历🎂10/14/2010天残党\n🏳️小号@a0brjkk(负面?🤔)\n🤍@a0brjkkmiao🤭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "aaarjkk"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "a0brjkk"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "a0brjkkmiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/lIxlEX4uF5"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": true,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念 ",
+        "most_recent_tweet_id": "2098981653439992210",
+        "name": "是貓貓喵🍥",
+        "pinned_tweet_id": "2098344560170807523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1786621805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087845591523168256/D8VdVCaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 577,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 648
+        },
+        "url": "https://t.co/lIxlEX4uF5",
+        "username": "aaarjkkmiao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-07T16:09:32.000Z",
+        "description": "2010 | MtF🍥🏳️‍⚧️ | DIY | 重度社恐 |hrt: 26•9•12 | 不割不o | 主观唯心主义 | \n开学不常在线\n生活乐观积极(真的吗) 只想好好活着\n冲100fo中, 100%互fo,想找同类玩",
+        "id": "1953488617151832064",
+        "is_identity_verified": false,
+        "location": "重庆",
+        "most_recent_tweet_id": "2098789195951325483",
+        "name": "Yuta醬🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953488617151832064/1788580583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096085007106514944/uThsr2TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 172,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "Dxcksaus",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

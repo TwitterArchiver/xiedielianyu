@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2016171535179120642",
+    "conversation_id": "2101362105719173178",
+    "created_at": "2026-09-19T22:43:21.000Z",
+    "display_text_range": [
+      13,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T23:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101442046628401518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2097019248082350080",
+          "start": 0,
+          "username": "muyilianxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101442046628401518",
+    "in_reply_to_user_id": "2097019248082350080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101362105719173178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muyilianxue 我对喹硫平的感受就是单纯让我困到不行，吃了它睡十个小时和没吃它睡四个小时一样困"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016171535179120642",
+        "conversation_id": "2101362105719173178",
+        "created_at": "2026-09-19T22:43:21.000Z",
+        "display_text_range": [
+          13,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T23:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101442046628401518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2097019248082350080",
+              "start": 0,
+              "username": "muyilianxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101442046628401518",
+        "in_reply_to_user_id": "2097019248082350080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101362105719173178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muyilianxue 我对喹硫平的感受就是单纯让我困到不行，吃了它睡十个小时和没吃它睡四个小时一样困"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2097019248082350080",
+        "conversation_id": "2101362105719173178",
+        "created_at": "2026-09-19T17:25:42.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101362105719173178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101362105719173178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎样才可以不依赖喹硫平片也能自然感受到困意睡着…医生我想换药，我不能一辈子对它产生依赖，我的大脑好像已经无法正常感受到困意了，还我原本自然的作息啊，戒断反应好难受"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，互联网上是温柔的天使，现实却是巨无敌内向小屁孩！欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiedielianyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiedielianyu",
+                "start": 0,
+                "url": "https://t.co/aSuxbuRed6"
+              }
+            ]
+          }
+        },
+        "id": "2016171535179120642",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2101442046628401518",
+        "name": "谢蝶恋雨",
+        "pinned_tweet_id": "2069391030567510394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016171535179120642/1776142962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 64,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 780
+        },
+        "url": "https://t.co/aSuxbuRed6",
+        "username": "xiedielianyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T17:57:24.000Z",
+        "description": "MTF🏳️‍⚧️｜比较乖的小药娘｜出生于2008年10.19｜168cm中小体型｜含糖日2025.2.3｜入圈晚｜家长党｜轻度抑郁症，略带轻微强迫症｜中度社恐｜性别焦虑｜年龄焦虑｜害怕孤独｜怕疼很少割手手，不od｜喜欢休闲游戏，想去自由的大草坪，想成为女孩子｜想和同类交朋友，可以互fo嘛",
+        "id": "2097019248082350080",
+        "is_identity_verified": false,
+        "location": "湖南",
+        "most_recent_tweet_id": "2101432997677584867",
+        "name": "忆恋雪🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2097019248082350080/1788850014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097214741299236864/cdulftDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 150,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "muyilianxue",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
